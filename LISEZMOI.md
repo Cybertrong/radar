@@ -3,7 +3,7 @@
 Une appli qui s'installe sur l'écran d'accueil, comme GREENS, sans Python.
 
 - **L'appli** (`index.html`, `filtre.js`) : tes critères restent sur ton téléphone. Elle filtre les aubaines, puis convertit les prix dans ta devise selon ta position.
-- **Le robot** (`collecte/collecte.mjs` et `.github/workflows/collecte.yml`) : GitHub le lance gratuitement toutes les 2 heures. Il lit Secret Flying et The Flight Deal et met à jour `deals.json`.
+- **Le robot** (`collecte/collecte.mjs` et `.github/workflows/collecte.yml`) : GitHub le lance gratuitement toutes les 2 heures. Il lit les sources de `sources.json` (Secret Flying, The Flight Deal, YDeals, Fly4free, Flytrippers) et met à jour `deals.json`.
 - **L'hébergement** : GitHub Pages, gratuit.
 
 ## Mise en ligne (une seule fois)

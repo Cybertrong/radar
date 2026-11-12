@@ -12,11 +12,14 @@ const MAX_AUBAINES = 500;
 
 const ENTITES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', '#8211': '–', '#8217': '’', '#8220': '“', '#8221': '”' };
 
+function decoder(s) {
+  return s.replace(/&(#?\w+);/g, (m, e) => ENTITES[e] ?? (/^#\d+$/.test(e) ? String.fromCodePoint(parseInt(e.slice(1), 10)) : m));
+}
+
 function nettoyer(s = '') {
-  return s
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+  // Le HTML peut être échappé une fois (&lt;p&gt;) : on décode, on retire les balises, puis on décode le reste.
+  return decoder(decoder(s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')).replace(/<[^>]+>/g, ' '))
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&(#?\w+);/g, (m, e) => ENTITES[e] ?? (e.startsWith('#') ? String.fromCodePoint(parseInt(e.slice(1), 10)) : m))
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -39,6 +42,24 @@ export function lireRss(xml, source) {
       titre,
       lien: /^https?:\/\//.test(lien) ? lien : '',
       texte: nettoyer(balise(bloc, 'description')).slice(0, 600),
+      source: source.nom,
+      dollar: source.dollar || 'CAD',
+      date: new Date(date).toISOString()
+    });
+  }
+  // Flux Atom (ex. YDeals)
+  for (const bloc of xml.match(/<entry[\s>][\s\S]*?<\/entry>/gi) ?? []) {
+    const titre = nettoyer(balise(bloc, 'title'));
+    const lienM = bloc.match(/<link[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/i) || bloc.match(/<link[^>]*href=["']([^"']+)["']/i);
+    const lien = lienM ? lienM[1].replace(/&amp;/g, '&') : '';
+    const id = nettoyer(balise(bloc, 'id')) || lien || titre;
+    const date = Date.parse(nettoyer(balise(bloc, 'published') || balise(bloc, 'updated'))) || Date.now();
+    if (!titre) continue;
+    items.push({
+      id: `${source.nom}|${id}`,
+      titre,
+      lien: /^https?:\/\//.test(lien) ? lien : '',
+      texte: nettoyer(balise(bloc, 'summary') || balise(bloc, 'content')).slice(0, 600),
       source: source.nom,
       dollar: source.dollar || 'CAD',
       date: new Date(date).toISOString()
