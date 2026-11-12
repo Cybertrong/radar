@@ -1,0 +1,30 @@
+name: Collecte des aubaines
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # toutes les 2 heures
+  workflow_dispatch: {}       # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Lire les flux
+        run: node collecte/collecte.mjs
+      - name: Enregistrer deals.json
+        run: |
+          git config user.name "radar-robot"
+          git config user.email "radar-robot@users.noreply.github.com"
+          git add deals.json
+          git diff --cached --quiet || (git commit -m "Aubaines mises à jour" && git push)

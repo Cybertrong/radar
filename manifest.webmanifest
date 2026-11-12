@@ -1,0 +1,14 @@
+{
+  "name": "Radar – aubaines de vols",
+  "short_name": "Radar",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EFE6",
+  "theme_color": "#0E1F3D",
+  "icons": [
+    {"src": "icone-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

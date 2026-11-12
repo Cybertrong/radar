@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar</title>
+<meta name="theme-color" content="#0E1F3D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Radar">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icone-180.png">
+<link rel="icon" href="icone-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--nuit:#0E1F3D;--nuit2:#1D3157;--sable:#F4EFE6;--ligne:#E8E1D4;--gris:#5B6475;--pale:#C9D3E6;--accent:#C2410C;--accent-pale:#FFF4EC;--titre:'Bricolage Grotesque',sans-serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--sable);color:var(--nuit);font-family:Inter,system-ui,sans-serif;-webkit-tap-highlight-color:transparent}
+body{min-height:100vh;padding-bottom:calc(96px + env(safe-area-inset-bottom))}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent)}
+.app{max-width:520px;margin:0 auto}
+.haut{background:var(--nuit);color:#fff;padding:calc(20px + env(safe-area-inset-top)) 20px 22px;border-radius:0 0 28px 28px;display:flex;flex-direction:column;gap:14px}
+.haut.grand{padding-bottom:56px}
+.ligne-haut{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.marque{display:flex;align-items:center;gap:8px;font-family:var(--titre);font-weight:800;font-size:20px}
+h1{margin:0;font-family:var(--titre);font-weight:800;font-size:30px;line-height:1.05;letter-spacing:-.02em}
+.sous{margin:0;font-size:14px;color:var(--pale);line-height:1.45}
+.pastilles{display:flex;flex-wrap:wrap;gap:6px}
+.pastille{padding:6px 11px;border-radius:14px;background:var(--nuit2);font-size:13px;font-weight:500}
+.rond{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:22px;background:var(--nuit2);border:none;color:#fff;cursor:pointer}
+.contenu{padding:16px;display:flex;flex-direction:column;gap:14px}
+.carte{position:relative;display:block;width:100%;text-align:left;border:none;border-radius:20px;background:#fff;color:var(--nuit);box-shadow:0 6px 18px rgba(14,31,61,.08);padding:0;cursor:pointer}
+.carte .corps{padding:14px 16px 12px;display:flex;flex-direction:column;gap:10px}
+.etiquette{align-self:flex-start;padding:4px 10px;border-radius:10px;font-size:12px;font-weight:600;background:#DCE8FF;color:#1E3A8A}
+.etiquette.urgent{background:#FFE4D3;color:#9A3412}
+.entre{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.petit{font-size:12px;color:var(--gris)}
+.route{display:flex;align-items:center;gap:10px}
+.code{font-family:var(--titre);font-weight:800;font-size:28px;line-height:1}
+.dest{font-family:var(--titre);font-weight:800;font-size:20px;line-height:1.1;text-align:right}
+.trait{flex:1;display:flex;align-items:center;gap:6px;color:var(--accent);min-width:24px}
+.trait span{flex:1;border-top:2px dashed #D9D2C4}
+.talon{position:relative;border-top:2px dashed var(--ligne);padding:12px 16px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.talon::before,.talon::after{content:"";position:absolute;top:-11px;width:20px;height:20px;border-radius:10px;background:var(--sable)}
+.talon::before{left:-10px}.talon::after{right:-10px}
+.prix{font-family:var(--titre);font-weight:800;font-size:22px;color:var(--accent);text-align:right}
+.bloc{background:#fff;border-radius:22px;padding:18px;display:flex;flex-direction:column;gap:12px}
+.bloc.sombre{background:var(--nuit);color:#fff}
+.legende{margin:0;font-size:12px;font-weight:600;color:var(--gris);text-transform:uppercase;letter-spacing:.06em}
+.bloc.sombre .legende{color:var(--pale)}
+.choix{display:flex;flex-wrap:wrap;gap:8px}
+.puce{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 14px;border-radius:22px;border:none;background:var(--sable);font-size:14px;font-weight:500;cursor:pointer}
+.puce[aria-pressed="true"]{background:var(--nuit);color:#fff;font-weight:600}
+.grille2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.envie{min-height:52px;padding:0 14px;border-radius:16px;border:2px solid var(--ligne);background:#fff;font-size:15px;font-weight:500;text-align:left;cursor:pointer}
+.envie[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-pale);font-weight:600}
+.mois{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+.mois .puce{justify-content:center;padding:0 6px}
+label.champ{display:flex;flex-direction:column;gap:8px;font-size:12px;font-weight:600;color:var(--gris);text-transform:uppercase;letter-spacing:.06em}
+.champ input,.champ select{min-height:48px;padding:0 14px;border:none;border-radius:14px;background:var(--sable);font-size:16px;color:var(--nuit);text-transform:none;letter-spacing:0;font-weight:400}
+.bascule{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:52px}
+.bascule input{width:22px;height:22px;accent-color:var(--accent)}
+.bouton{display:flex;align-items:center;justify-content:center;gap:10px;min-height:56px;border:none;border-radius:18px;background:var(--accent);color:#fff;font-size:17px;font-weight:600;text-decoration:none;cursor:pointer;width:100%}
+.nav{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(14px + env(safe-area-inset-bottom));width:calc(100% - 32px);max-width:488px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));padding:6px;background:var(--nuit);border-radius:22px;z-index:5}
+.nav button{min-height:48px;border:none;border-radius:16px;background:none;color:var(--pale);font-size:13px;font-weight:500;cursor:pointer}
+.nav button[aria-current="page"]{background:var(--accent);color:#fff;font-weight:600}
+.vide{text-align:center;padding:40px 20px;color:var(--gris);line-height:1.5}
+.alerte{background:#FFE4D3;color:#7C2D12;border-radius:22px;padding:14px 18px;font-size:14px;line-height:1.45}
+.retour{align-self:flex-start;display:inline-flex;align-items:center;gap:4px;min-height:44px;padding:0 12px 0 6px;border-radius:22px;border:none;background:var(--nuit2);color:#fff;font-size:14px;font-weight:500;cursor:pointer}
+.source-ligne{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:52px;border-top:1px solid #F0EBE1}
+.source-ligne:first-of-type{border-top:none}
+.ok{color:#166534;font-weight:600;font-size:13px}.ko{color:#9A3412;font-weight:600;font-size:13px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="app">
+
+<!-- POUR TOI -->
+<section id="v-fil" aria-labelledby="t-fil">
+  <div class="haut">
+    <div class="ligne-haut">
+      <div>
+        <p class="sous" id="fil-sur">Le radar a trouvé</p>
+        <h1 id="t-fil">…</h1>
+      </div>
+      <button class="rond" type="button" aria-label="Actualiser" id="btn-actualiser">
+        <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"></polyline><path d="M20.5 15a9 9 0 1 1-2.1-9.4L23 10"></path></svg>
+      </button>
+    </div>
+    <div class="pastilles" id="fil-resume"></div>
+  </div>
+  <div class="contenu" id="fil-liste" aria-live="polite"></div>
+</section>
+
+<!-- DÉTAIL -->
+<section id="v-detail" hidden aria-labelledby="t-detail">
+  <div class="haut grand">
+    <button class="retour" type="button" id="btn-retour"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>Retour</button>
+    <span class="etiquette" id="d-etiquette"></span>
+    <h1 id="t-detail"></h1>
+    <p class="sous" id="d-sous"></p>
+  </div>
+  <div class="contenu" style="margin-top:-40px">
+    <div class="bloc" style="box-shadow:0 12px 32px rgba(14,31,61,.12)">
+      <p class="petit" style="margin:0">Prix annoncé</p>
+      <p class="prix" style="font-size:34px;text-align:left;margin:0" id="d-prix"></p>
+      <p class="petit" style="margin:0" id="d-conv"></p>
+    </div>
+    <div class="alerte" id="d-alerte" hidden><strong>Erreur de prix probable.</strong> Ces prix disparaissent vite et la compagnie peut annuler le billet. Prends un hébergement remboursable et n'appelle pas la compagnie.</div>
+    <div class="bloc">
+      <p class="legende">À vérifier sur le site</p>
+      <p style="margin:0;font-size:14px;line-height:1.5" id="d-notes"></p>
+    </div>
+    <a class="bouton" id="d-lien" href="#" target="_blank" rel="noopener noreferrer">Voir l'aubaine</a>
+  </div>
+</section>
+
+<!-- CRITÈRES -->
+<section id="v-crit" hidden aria-labelledby="t-crit">
+  <div class="haut grand">
+    <div class="marque"><svg aria-hidden="true" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"></circle><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="12" x2="19" y2="5"></line></svg>radar</div>
+    <h1 id="t-crit">Où veux-tu<br>t'évader ?</h1>
+    <p class="sous">Je ne te montre que les aubaines qui collent à ta vie. Tes choix restent sur ce téléphone.</p>
+  </div>
+  <div class="contenu" style="margin-top:-36px">
+    <div class="bloc" style="box-shadow:0 12px 32px rgba(14,31,61,.12)">
+      <p class="legende" id="l-dep">Je pars de</p>
+      <div class="choix" id="c-departs" role="group" aria-labelledby="l-dep"></div>
+      <p class="legende" id="l-mois">Mois de départ (aucun = tous)</p>
+      <div class="mois" id="c-mois" role="group" aria-labelledby="l-mois"></div>
+      <label class="champ"><span>Budget maximum aller-retour (<span id="c-devise-nom">$ CA</span>)</span>
+        <input id="c-budget" type="number" inputmode="numeric" min="0" step="10">
+      </label>
+      <p class="legende" id="l-env">Envie de</p>
+      <div class="grille2" id="c-envies" role="group" aria-labelledby="l-env"></div>
+      <label class="bascule"><span style="font-size:15px">Écarter les aubaines sans dates claires</span><input type="checkbox" id="c-exiger"></label>
+    </div>
+    <button class="bouton" type="button" id="btn-voir">Voir mes aubaines</button>
+  </div>
+</section>
+
+<!-- SOURCES -->
+<section id="v-src" hidden aria-labelledby="t-src">
+  <div class="haut">
+    <h1 id="t-src">Mes sources</h1>
+    <p class="sous" id="src-maj">Le robot lit ces sources toutes les 2 heures.</p>
+  </div>
+  <div class="contenu">
+    <div class="bloc"><p class="legende">Chasseurs d'aubaines</p><div id="src-liste"></div></div>
+    <div class="bloc sombre">
+      <p class="legende">Devise</p>
+      <label class="champ" style="color:var(--pale)">Afficher les prix en
+        <select id="r-devise"><option value="auto">Selon ma position</option><option value="CAD">Dollars canadiens</option><option value="USD">Dollars américains</option><option value="EUR">Euros</option></select>
+      </label>
+      <label class="champ" style="color:var(--pale)">Frais de carte étrangère (%)
+        <input id="r-frais" type="number" inputmode="decimal" min="0" max="10" step="0.5">
+      </label>
+      <p class="sous" id="r-taux"></p>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<nav class="nav" aria-label="Navigation principale">
+  <button type="button" data-vue="fil" aria-current="page">Pour toi</button>
+  <button type="button" data-vue="crit">Critères</button>
+  <button type="button" data-vue="src">Sources</button>
+</nav>
+
+<script src="filtre.js"></script>
+<script>
+'use strict';
+var AEROPORTS = [
+  { code: 'YUL', ville: 'Montréal', mots: ['Montreal', 'Montréal', 'YUL'] },
+  { code: 'PBG', ville: 'Plattsburgh', mots: ['Plattsburgh', 'PBG'] },
+  { code: 'YQB', ville: 'Québec', mots: ['Quebec City', 'Québec', 'YQB'] },
+  { code: 'BTV', ville: 'Burlington', mots: ['Burlington', 'BTV'] },
+  { code: 'YOW', ville: 'Ottawa', mots: ['Ottawa', 'YOW'] },
+  { code: 'YYZ', ville: 'Toronto', mots: ['Toronto', 'YYZ'] }
+];
+var NOMS_MOIS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'];
+var ENVIES = [['soleil', 'Soleil'], ['europe', 'Europe'], ['ville', 'Grande ville'], ['surprise', 'Surprends-moi']];
+var DEFAUT = { aeroports: ['YUL', 'PBG'], mois: [], budget: 600, envies: ['surprise'], exigerMois: false, devise: 'auto', frais: 2.5 };
+
+function lire(cle, def) { try { var v = JSON.parse(localStorage.getItem(cle)); return v === null ? def : v; } catch (e) { return def; } }
+function ecrire(cle, v) { try { localStorage.setItem(cle, JSON.stringify(v)); } catch (e) {} }
+function $(id) { return document.getElementById(id); }
+function el(tag, attrs, enfants) {
+  var n = document.createElement(tag);
+  for (var k in (attrs || {})) { if (k === 'texte') n.textContent = attrs[k]; else n.setAttribute(k, attrs[k]); }
+  (enfants || []).forEach(function (c) { if (c) n.appendChild(c); });
+  return n;
+}
+
+var prefs = Object.assign({}, DEFAUT, lire('radar-prefs', {}));
+var donnees = null, conv = null, resultats = [], tauxOrigine = '', devOrigine = 'choisie';
+
+/* ---------- Devise et taux ---------- */
+function chargerConvertisseur() {
+  var choix = prefs.devise;
+  devOrigine = 'choisie';
+  var devP = choix !== 'auto' ? Promise.resolve(choix) :
+    fetch('https://ipapi.co/currency/').then(function (r) { return r.text(); })
+      .then(function (t) { t = t.trim(); if (!/^[A-Z]{3}$/.test(t)) throw new Error(); devOrigine = 'selon ta position'; return t; })
+      .catch(function () { devOrigine = 'position introuvable, CAD par défaut'; return 'CAD'; });
+  return devP.then(function (locale) {
+    var cache = lire('radar-taux', null);
+    if (cache && cache.base === locale && Date.now() - cache.quand < 12 * 3600e3) { tauxOrigine = 'du jour'; return [locale, cache.taux]; }
+    return fetch('https://open.er-api.com/v6/latest/' + locale).then(function (r) { return r.json(); }).then(function (j) {
+      if (j.result !== 'success') throw new Error();
+      var taux = {}; for (var d in j.rates) if (j.rates[d]) taux[d] = 1 / j.rates[d];
+      ecrire('radar-taux', { base: locale, quand: Date.now(), taux: taux });
+      tauxOrigine = 'du jour'; return [locale, taux];
+    }).catch(function () {
+      tauxOrigine = 'approximatifs (hors ligne)';
+      return [locale, locale === 'CAD' ? Radar.TAUX_SECOURS_CAD : (function () { var t = {}; t[locale] = 1; return t; })()];
+    });
+  }).then(function (r) {
+    conv = new Radar.Convertisseur(r[0], r[1], prefs.frais);
+    $('c-devise-nom').textContent = conv.nom(conv.locale);
+    $('r-taux').textContent = 'Devise : ' + conv.locale + ' (' + devOrigine + ')' + ' · taux ' + tauxOrigine + '.';
+  });
+}
+
+/* ---------- Données ---------- */
+function chargerDonnees() {
+  return fetch('deals.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(function (j) { donnees = j; ecrire('radar-deals', j); })
+    .catch(function () { donnees = lire('radar-deals', null); });
+}
+
+function criteres() {
+  var mots = [];
+  AEROPORTS.forEach(function (a) { if (prefs.aeroports.indexOf(a.code) !== -1) mots = mots.concat(a.mots); });
+  return { departs: mots, mois: prefs.mois, budget: Number(prefs.budget) || 0, envies: prefs.envies, exigerMois: prefs.exigerMois, exclure: ['business class', 'first class', 'classe affaires'] };
+}
+
+/* ---------- Affichage du fil ---------- */
+function ilYa(iso) {
+  var min = Math.round((Date.now() - Date.parse(iso)) / 60000);
+  if (!(min >= 0)) return '';
+  if (min < 2) return 'à l\'instant';
+  if (min < 60) return 'il y a ' + min + ' min';
+  var h = Math.round(min / 60); if (h < 24) return 'il y a ' + h + ' h';
+  var j = Math.round(h / 24); return j === 1 ? 'hier' : 'il y a ' + j + ' jours';
+}
+function destination(titre) {
+  var m = titre.match(/\bto\s+(.+?)(?:\s+(?:from|for|in|–|-|—|\(|\$|€|£|CAD|USD)\b|\s*[–—:(]|$)/i) || titre.match(/[–—-]\s*(.+?)\s+(?:dès|à partir)/i);
+  return m ? m[1].trim().slice(0, 28) : '';
+}
+function codeDepart(r) {
+  var low = r.depart.toLowerCase();
+  var a = AEROPORTS.filter(function (x) { return x.mots.some(function (m) { return m.toLowerCase() === low; }); })[0];
+  return a || { code: r.depart.slice(0, 3).toUpperCase(), ville: r.depart };
+}
+function texPrix(r) {
+  if (!r.prix) return '—';
+  if (r.prixLocal !== null && r.prix.devise !== conv.locale) return Math.round(r.prixLocal) + ' ' + conv.nom(conv.locale);
+  return r.prix.montant + ' ' + conv.nom(r.prix.devise);
+}
+function avion() {
+  var s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  s.setAttribute('aria-hidden', 'true'); s.setAttribute('width', '18'); s.setAttribute('height', '18'); s.setAttribute('viewBox', '0 0 24 24');
+  s.innerHTML = '<path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M17.8 19.2L16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>';
+  return s;
+}
+
+function afficherFil() {
+  var liste = $('fil-liste'); liste.textContent = '';
+  var resume = $('fil-resume'); resume.textContent = '';
+  var res = [prefs.aeroports.join(' · ') || 'Aucun départ'];
+  if (prefs.mois.length) res.push(prefs.mois.map(function (m) { return NOMS_MOIS[m - 1]; }).join(', '));
+  if (prefs.budget) res.push('≤ ' + prefs.budget + ' ' + conv.nom(conv.locale));
+  if (prefs.envies.indexOf('surprise') === -1) res.push(prefs.envies.map(function (e) { return ENVIES.filter(function (x) { return x[0] === e; })[0][1]; }).join(', '));
+  res.forEach(function (t) { resume.appendChild(el('span', { 'class': 'pastille', texte: t })); });
+
+  if (!donnees) {
+    $('t-fil').textContent = 'Pas encore de données';
+    liste.appendChild(el('p', { 'class': 'vide', texte: 'Le robot n\'a pas encore récupéré d\'aubaines. Reviens dans quelques minutes.' }));
+    return;
+  }
+  resultats = Radar.filtrer(donnees.aubaines || [], criteres(), conv);
+  var n = resultats.length;
+  $('t-fil').textContent = n === 0 ? 'Rien pour l\'instant' : n + (n > 1 ? ' aubaines pour toi' : ' aubaine pour toi');
+  $('fil-sur').textContent = 'Sur ' + (donnees.aubaines || []).length + ' aubaines lues, le radar a trouvé';
+  if (!n) {
+    liste.appendChild(el('p', { 'class': 'vide', texte: 'Aucune aubaine ne colle à tes critères en ce moment. Élargis tes mois ou ton budget, ou reviens plus tard : le robot repasse toutes les 2 heures.' }));
+    return;
+  }
+  resultats.slice(0, 60).forEach(function (r, i) {
+    var dep = codeDepart(r), dest = destination(r.titre) || 'Voir l\'offre';
+    var carte = el('button', { 'class': 'carte', type: 'button', 'aria-label': r.titre }, [
+      el('div', { 'class': 'corps' }, [
+        el('div', { 'class': 'entre' }, [
+          el('span', { 'class': 'etiquette' + (r.erreur ? ' urgent' : ''), texte: r.erreur ? 'Erreur de prix' : (r.notes.length ? r.notes[0] : 'Colle à tes critères') }),
+          el('span', { 'class': 'petit', texte: ilYa(r.date) })
+        ]),
+        el('div', { 'class': 'route' }, [
+          el('div', {}, [el('div', { 'class': 'code', texte: dep.code }), el('div', { 'class': 'petit', texte: dep.ville })]),
+          el('div', { 'class': 'trait' }, [el('span'), avion(), el('span')]),
+          el('div', { 'class': 'dest', texte: dest })
+        ])
+      ]),
+      el('div', { 'class': 'talon' }, [
+        el('span', { 'class': 'petit', texte: 'via ' + r.source }),
+        el('span', { 'class': 'prix', texte: texPrix(r) })
+      ])
+    ]);
+    carte.addEventListener('click', function () { ouvrirDetail(i); });
+    liste.appendChild(carte);
+  });
+}
+
+/* ---------- Détail ---------- */
+function ouvrirDetail(i) {
+  var r = resultats[i];
+  $('t-detail').textContent = destination(r.titre) || r.titre;
+  $('d-sous').textContent = r.titre;
+  var e = $('d-etiquette');
+  e.className = 'etiquette' + (r.erreur ? ' urgent' : '');
+  e.textContent = (r.erreur ? 'Erreur de prix · ' : 'Vue ') + ilYa(r.date) + ' · ' + r.source;
+  $('d-prix').textContent = r.prix ? r.prix.montant + ' ' + conv.nom(r.prix.devise) : 'Prix à vérifier';
+  $('d-conv').textContent = r.prix && r.prix.devise !== conv.locale && r.prixLocal !== null
+    ? '≈ ' + Math.round(r.prixLocal) + ' ' + conv.nom(conv.locale) + ', frais de carte de ' + prefs.frais + ' % inclus' : '';
+  $('d-alerte').hidden = !r.erreur;
+  var notes = ['Le prix exact selon tes dates', 'Les bagages inclus ou non'];
+  if (r.notes.indexOf('dates à vérifier') !== -1) notes.unshift('Les dates disponibles : l\'alerte ne les précise pas clairement');
+  $('d-notes').textContent = notes.join(' · ');
+  var lien = $('d-lien');
+  if (r.lien) { lien.href = r.lien; lien.removeAttribute('aria-disabled'); lien.textContent = 'Voir l\'aubaine sur ' + r.source; }
+  else { lien.removeAttribute('href'); lien.setAttribute('aria-disabled', 'true'); lien.textContent = 'Lien non fourni'; }
+  montrer('detail');
+  window.scrollTo(0, 0);
+}
+
+/* ---------- Critères ---------- */
+function puce(texte, actif, surClic, cls) {
+  var b = el('button', { type: 'button', 'class': cls || 'puce', 'aria-pressed': String(actif), texte: texte });
+  b.addEventListener('click', function () { surClic(); b.setAttribute('aria-pressed', String(b.getAttribute('aria-pressed') !== 'true')); });
+  return b;
+}
+function basculer(liste, v) { var i = liste.indexOf(v); if (i === -1) liste.push(v); else liste.splice(i, 1); }
+function construireCriteres() {
+  var d = $('c-departs'); d.textContent = '';
+  AEROPORTS.forEach(function (a) { d.appendChild(puce(a.code + ' ' + a.ville, prefs.aeroports.indexOf(a.code) !== -1, function () { basculer(prefs.aeroports, a.code); sauver(); })); });
+  var m = $('c-mois'); m.textContent = '';
+  NOMS_MOIS.forEach(function (nom, i) { m.appendChild(puce(nom, prefs.mois.indexOf(i + 1) !== -1, function () { basculer(prefs.mois, i + 1); prefs.mois.sort(function (a, b) { return a - b; }); sauver(); })); });
+  var e = $('c-envies'); e.textContent = '';
+  ENVIES.forEach(function (x) {
+    e.appendChild(puce(x[1], prefs.envies.indexOf(x[0]) !== -1, function () {
+      basculer(prefs.envies, x[0]); if (!prefs.envies.length) prefs.envies = ['surprise']; sauver(); construireCriteres();
+    }, 'envie'));
+  });
+  $('c-budget').value = prefs.budget;
+  $('c-exiger').checked = prefs.exigerMois;
+}
+function sauver() { ecrire('radar-prefs', prefs); }
+$('c-budget').addEventListener('input', function () { prefs.budget = Number(this.value) || 0; sauver(); });
+$('c-exiger').addEventListener('change', function () { prefs.exigerMois = this.checked; sauver(); });
+$('btn-voir').addEventListener('click', function () { montrer('fil'); afficherFil(); window.scrollTo(0, 0); });
+
+/* ---------- Sources et réglages ---------- */
+function afficherSources() {
+  var l = $('src-liste'); l.textContent = '';
+  var etat = (donnees && donnees.sources) || [];
+  if (!etat.length) l.appendChild(el('p', { 'class': 'petit', texte: 'Aucune collecte pour l\'instant.' }));
+  etat.forEach(function (s) {
+    l.appendChild(el('div', { 'class': 'source-ligne' }, [
+      el('span', { style: 'font-size:15px;font-weight:600', texte: s.nom }),
+      el('span', { 'class': s.ok ? 'ok' : 'ko', texte: s.ok ? s.nb + ' aubaines lues' : 'En panne' })
+    ]));
+  });
+  $('src-maj').textContent = donnees && donnees.maj ? 'Dernier passage du robot : ' + ilYa(donnees.maj) + '. Il repasse toutes les 2 heures.' : 'Le robot lit ces sources toutes les 2 heures.';
+  $('r-devise').value = prefs.devise;
+  $('r-frais').value = prefs.frais;
+}
+$('r-devise').addEventListener('change', function () { prefs.devise = this.value; sauver(); chargerConvertisseur(); });
+$('r-frais').addEventListener('input', function () { prefs.frais = Number(this.value) || 0; sauver(); if (conv) conv.frais = prefs.frais / 100; });
+
+/* ---------- Navigation ---------- */
+function montrer(vue) {
+  ['fil', 'detail', 'crit', 'src'].forEach(function (v) { $('v-' + v).hidden = v !== vue; });
+  document.querySelectorAll('.nav button').forEach(function (b) {
+    if (b.dataset.vue === vue || (vue === 'detail' && b.dataset.vue === 'fil')) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current');
+  });
+}
+document.querySelectorAll('.nav button').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var v = b.dataset.vue; montrer(v); window.scrollTo(0, 0);
+    if (v === 'fil') afficherFil(); if (v === 'crit') construireCriteres(); if (v === 'src') afficherSources();
+  });
+});
+$('btn-retour').addEventListener('click', function () { montrer('fil'); });
+$('btn-actualiser').addEventListener('click', function () { $('t-fil').textContent = '…'; chargerDonnees().then(afficherFil); });
+
+/* ---------- Démarrage ---------- */
+if (!lire('radar-prefs', null)) { montrer('crit'); construireCriteres(); }
+Promise.all([chargerConvertisseur(), chargerDonnees()]).then(function () { afficherFil(); });
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(function () {});
+</script>
+</body>
+</html>
