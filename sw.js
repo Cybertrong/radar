@@ -1,5 +1,5 @@
 // Permet l'installation et un usage hors ligne de base.
-var CACHE = 'radar-v1';
+var CACHE = 'radar-v2';
 var FICHIERS = ['./', 'index.html', 'filtre.js', 'manifest.webmanifest', 'icone-192.png', 'icone-512.png', 'icone-180.png'];
 
 self.addEventListener('install', function (e) {

@@ -249,7 +249,8 @@ function ilYa(iso) {
   var j = Math.round(h / 24); return j === 1 ? 'hier' : 'il y a ' + j + ' jours';
 }
 function destination(titre) {
-  var m = titre.match(/\bto\s+(.+?)(?:\s+(?:from|for|in|–|-|—|\(|\$|€|£|CAD|USD)\b|\s*[–—:(]|$)/i) || titre.match(/[–—-]\s*(.+?)\s+(?:dès|à partir)/i);
+  var m = titre.match(/\bto\s+(.+?)(?:\s+(?:from|for|in|CAD|USD)\b|\s+[-–—]\s|\s*[$€£–—:(,]|$)/i) ||
+    titre.match(/^.*\s[–—]\s+(.+?)(?:\s+\(|,|\.\s|\s+(?:dès|à partir|from|for|pour)\b|\s+[$€£]|$)/i);
   return m ? m[1].trim().slice(0, 28) : '';
 }
 function codeDepart(r) {

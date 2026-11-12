@@ -70,7 +70,7 @@ export function lireRss(xml, source) {
 
 async function lireSource(source) {
   if (/^https?:\/\//.test(source.url)) {
-    const r = await fetch(source.url, { headers: { 'User-Agent': 'radar-perso/1.0 (+github pages)' } });
+    const r = await fetch(source.url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; radar-perso/1.0; +https://cybertrong.github.io/radar/)', 'Accept': 'application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8' } });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     return r.text();
   }
@@ -86,7 +86,9 @@ async function main() {
   const etat = [];
   for (const s of sources) {
     try {
-      const items = lireRss(await lireSource(s), s);
+      const xml = await lireSource(s);
+      if (!/<(rss|feed|rdf:RDF)[\s>]/i.test(xml)) throw new Error('pas un flux RSS (site protégé ou adresse changée)');
+      const items = lireRss(xml, s);
       for (const it of items) if (!parId.has(it.id)) parId.set(it.id, it);
       etat.push({ nom: s.nom, ok: true, nb: items.length });
     } catch (e) {
