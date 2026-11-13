@@ -1,18 +1,51 @@
 {
- "maj": "2026-11-12T21:49:51.186Z",
+ "maj": "2026-11-13T02:40:15.607Z",
  "sources": [
   {
    "nom": "Secret Flying",
-   "ok": true,
-   "nb": 0
+   "ok": false,
+   "erreur": "pas un flux RSS (site protégé ou adresse changée)"
   },
   {
    "nom": "The Flight Deal",
    "ok": true,
    "nb": 16
+  },
+  {
+   "nom": "YDeals",
+   "ok": false,
+   "erreur": "HTTP 404"
+  },
+  {
+   "nom": "Fly4free",
+   "ok": true,
+   "nb": 50
+  },
+  {
+   "nom": "Flytrippers",
+   "ok": true,
+   "nb": 10
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780343",
+   "titre": "Act fast, new lower fares to Sri Lanka! 💥 Last-minute full-service direct flights from Poland from €419",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e419/",
+   "texte": "Enter Air is offering discounted flights to Colombo from just €419 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T21:00:45.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780322",
+   "titre": "Cheap full-service flights from many European cities to Indonesia from €451",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-indonesia-e451/",
+   "texte": "Fly with Air China to Indonesia at a discounted price! Tickets to Jakarta are on offer from €451 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T20:00:48.000Z"
+  },
   {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327782",
    "titre": "Scandinavian Airlines: San Francisco – Bergen, Norway. $656 (Basic Economy) / $736 (Regular Economy). Roundtrip, including all Taxes",
@@ -50,6 +83,15 @@
    "date": "2026-11-12T19:18:44.000Z"
   },
   {
+   "id": "Fly4free|https://www.fly4free.com/?p=780304",
+   "titre": "Cheap full-service flights from Amsterdam to Malaysia for €493",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e493/",
+   "texte": "Experience the convenience of China Eastern Airlines flights to Malaysia from just €493 for a round trip. Whether it's the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and unforgettable way.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T19:00:46.000Z"
+  },
+  {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327764",
    "titre": "American: New York – Georgetown, Guyana. $365 (Basic Economy) / $455 (Regular Economy). Roundtrip, including all Taxes",
    "lien": "https://www.theflightdeal.com/2026/11/12/american-new-york-georgetown-guyana-365-basic-economy-455-regular-economy-roundtrip-including-all-taxes-2/",
@@ -57,6 +99,15 @@
    "source": "The Flight Deal",
    "dollar": "USD",
    "date": "2026-11-12T18:53:23.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780030",
+   "titre": "Chinese airlines cut flights to Europe, with cancellations affecting major hubs",
+   "lien": "https://www.fly4free.com/news/chinese-airlines-cut-flights-to-europe-with-cancellations-affecting-major-hubs/",
+   "texte": "Travelling between Europe and China is set to become more difficult this winter. Three major Chinese airlines are scaling back their flight schedules, with some routes temporarily suspended and others reduced to just a few services a week. The changes affect major European airports, while cuts on certain routes are expected to continue into early 2027.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T18:47:04.000Z"
   },
   {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327761",
@@ -84,6 +135,15 @@
    "source": "The Flight Deal",
    "dollar": "USD",
    "date": "2026-11-12T18:03:32.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780262",
+   "titre": "Full-service direct Hainan Airlines flights from Prague to Beijing, China for €585",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-prague-to-beijing-e585/",
+   "texte": "Experience rich culture, dazzling cities, and timeless traditions — all at an unbeatable fare. Fly Hainan Airlines to Beijing starting at just €585 for a round trip. Pack your bags, China is calling!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T18:00:17.000Z"
   },
   {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327749",
@@ -140,6 +200,15 @@
    "date": "2026-11-12T17:03:41.000Z"
   },
   {
+   "id": "Fly4free|https://www.fly4free.com/?p=780299",
+   "titre": "Well-rated and central 4🌟 hotel in Athens for €47/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e47/",
+   "texte": "Athens is calling, and this hotel deal makes a Greek city break even more tempting! Stay at a well-rated 4-star hotel in a central location for only €47 per night for two people. Whether you're interested in ancient history, delicious Greek cuisine, rooftop bars or lively neighbourhoods, you'll have plenty to explore nearby. Enjoy the perfect combination of affordable accommodation, city-centre convenience and the unforgettable atmosphere of Athens!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T17:00:52.000Z"
+  },
+  {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327725",
    "titre": "Delta: Washington D.C. – Dubai, United Arab Emirates. $749. Roundtrip, including all Taxes",
    "lien": "https://www.theflightdeal.com/2026/11/12/delta-washington-d-c-dubai-united-arab-emirates-749-roundtrip-including-all-taxes/",
@@ -149,6 +218,132 @@
    "date": "2026-11-12T16:53:13.000Z"
   },
   {
+   "id": "Fly4free|https://www.fly4free.com/?p=780272",
+   "titre": "GREAT DEAL 😎 Non-stop flights from Brussels to Sao Paulo, Brazil for €553",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-sao-paulo-e553/",
+   "texte": "Discover the vibrant culture and stunning landscapes of Brazil! Book discounted LATAM flights to Sao Paulo starting at only €553 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T16:00:36.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780291",
+   "titre": "Well-rated 4* Kasa El Paseo Miami Beach 😎 🏖️ for €99/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-miami-beach-e99-2/",
+   "texte": "Miami is calling! Stay at the well-rated 4-star Kasa El Paseo Miami Beach and experience one of Florida's most exciting seaside destinations. Ideally situated in the popular South Beach neighbourhood, the hotel offers convenient access to the beach, shopping, restaurants and the area's legendary nightlife. Whether you're planning lazy beach days or exploring Miami's vibrant streets, this is a fantastic-value getaway for only €99 per double room.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T15:00:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780257",
+   "titre": "HIGH SEASON 🌴 🥥 Full-service flights from many European cities to Zanzibar from €495",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e495/",
+   "texte": "A very strong fare for a proper Indian Ocean beach trip: Air Cairo is offering affordable full-service flights to Zanzibar from just €495 return.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T14:00:19.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780244",
+   "titre": "Air France flights from Germany & Spain to Fortaleza, Brazil 😎 🍹 from €571",
+   "lien": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-germany-spain-to-fortaleza/",
+   "texte": "Escape the European cold with these cheap Air France flights to Fortaleza, one of Brazil’s most exciting beach destinations, from just €571 return. Fortaleza is famous for its long sandy beaches, warm temperatures, lively waterfront and vibrant Brazilian atmosphere.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T13:00:53.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780234",
+   "titre": "Full Board stay at sea view 4* hotel on Dhiffushi, Maldives 🏝️ for €101/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-dhiffushi-e101/",
+   "texte": "Crystal-clear waters, white-sand beaches and breathtaking Indian Ocean views await on Dhiffushi, one of the Maldives' charming local islands! Enjoy a Full Board stay at a sea-view 4* hotel for only €101 per night for two people. With breakfast, lunch and dinner included, you can spend more time relaxing, swimming and exploring this tropical paradise without worrying about every meal.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T12:00:24.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780178",
+   "titre": "PRICE DROP 💥 Cheap non-stop flights from Milan to Cape Verde 🏝️ for €148",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-cape-verde-e148/",
+   "texte": "If you are dreaming of warm weather, golden beaches, and crystal-clear Atlantic waters, this is the perfect opportunity for an affordable tropical getaway. Cape Verde is famous for its year-round sunshine, relaxed atmosphere, colourful culture, and volcanic landscapes. Direct Easyjet flights make the journey easy and comfortable, allowing you to reach paradise without stressful stopovers.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T11:00:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780218",
+   "titre": "Turkish Airlines flights from Prague to the Middle East & many Asian destinations from €372",
+   "lien": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-prague-to-middle-east-and-asia-e372/",
+   "texte": "Dreaming of Asia without spending a fortune? This Turkish Airlines sale is a fantastic opportunity to book cheap flights from just €372 return. Whether you're planning an unforgettable holiday, a cultural adventure, or a tropical escape, this deal makes long-haul travel far more affordable.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T10:00:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780209",
+   "titre": "Cheap flights from many European cities to exotic Trinidad and Tobago 🏝️ from €461",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e461/",
+   "texte": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Trinidad from just €461 return with Condor! These round-trip deals from several European cities bring you closer to a tropical paradise filled with palm-fringed beaches, vibrant music, and delicious local cuisine.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T09:00:08.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780201",
+   "titre": "Fares down! 💥 Cheap flights from London to Seattle for £345 or £391 over Summer ☀️",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p345/",
+   "texte": "Quick escape or epic adventure? Your Seattle story starts now! Explore the vibrant streets of Pike Place, get lost in the rhythm of the Emerald City, and sip coffee where it all began — book discounted Icelandair or British Airways flights starting at only £345 return.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T08:00:17.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780187",
+   "titre": "Ryanair launches 10 new winter routes from Italy",
+   "lien": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-ten-new-winter-routes-from-italy/",
+   "texte": "Turin is becoming an even more attractive destination for budget travellers. Ryanair has unveiled its largest-ever winter schedule at the Italian city's airport, featuring 40 routes, ten additions to its winter network and 25% more seats than last year. Poland accounts for the largest share of the new winter destinations, but the list also includes Hungary, Slovakia, the Czech Republic and other European countries. The airline is also planning two further international routes next summer.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T07:35:38.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780191",
+   "titre": "Cheap last-minute direct flights from Warsaw to Cape Verde 🏝️ for €259",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
+   "texte": "Discover a tropical paradise in the Atlantic Ocean, where golden beaches, turquoise waters and spectacular volcanic landscapes await! Enter Air is offering discounted direct flights from Warsaw or Katowice to the sun-soaked island of Sal starting at €259 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-12T07:00:13.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=171157",
+   "titre": "Promotion de référencement Chexy: Boni extrêmement généreux de 1150$",
+   "lien": "https://flytrippers.com/fr/promotion-referencement-chexy/",
+   "texte": "Si tu es un pro des récompenses-voyage, tu utilises donc nécessairement Chexy, et ils viennent de lancer une promotion de référencement extrêmement intéressante pour toi (1150$!!!). Si tu n’utilises malheureusement pas encore Chexy, tu devrais le faire si tu veux devenir un pro toi aussi, et tu vas pouvoir tout de suite profiter de la […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-11T23:03:33.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780097",
+   "titre": "GREAT DEAL 🤩 Cheap full-service flights from London to Brunei for £447",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
+   "texte": "Experience award-winning service and world-class comfort with Singapore Airlines on your next adventure to Brunei. For a limited time, you can book return flights from London to Bandar Seri Begawan starting at only £447.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T21:00:50.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780132",
+   "titre": "Cheap full-service flights from Budapest to Beijing, China for €495",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
+   "texte": "China Eastern Airlines are offering discounted flights from Budapest to Beijing, China starting at only €495 for a round trip with checked bag included.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T20:00:41.000Z"
+  },
+  {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327722",
    "titre": "Delta: San Francisco – Bologna, Italy. $736 (Basic Economy) / $976 (Regular Economy). Roundtrip, including all Taxes",
    "lien": "https://www.theflightdeal.com/2026/11/11/delta-san-francisco-bologna-italy-736-basic-economy-976-regular-economy-roundtrip-including-all-taxes/",
@@ -156,6 +351,366 @@
    "source": "The Flight Deal",
    "dollar": "USD",
    "date": "2026-11-11T19:33:24.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780119",
+   "titre": "Turkish Airlines flights from several European cities to Bali, Indonesia 🌸 for €643",
+   "lien": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-europe-to-bali-e643/",
+   "texte": "Fly in comfort and style with a full-service experience—meals, drinks, and checked baggage are all included for your journey. Whether you’re seeking adventure in Ubud’s rice terraces, relaxation on Nusa Dua’s white sands, or breathtaking sunsets in Seminyak, Bali is ready to welcome you.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T19:00:23.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779979",
+   "titre": "Who travels most in winter? Poland beats Spain and Germany in new European ranking",
+   "lien": "https://www.fly4free.com/news/polish-travellers-lead-europe-in-autumn-and-winter-travel/",
+   "texte": "Poland has topped the European rankings for travel intentions this autumn and winter, with nearly nine in ten Poles planning at least one trip by the end of March 2027. City breaks remain the most popular type of holiday among Europeans, but a growing number of travellers are looking to explore destinations beyond the usual tourist trail.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T18:11:24.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780114",
+   "titre": "Cheap flights from Prague to Toronto, Canada 🍁 for €441",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e441/",
+   "texte": "Explore the charm of Canada’s coolest city — stroll through vibrant neighborhoods, marvel at Niagara Falls, and soak in the autumn vibes! Book discounted Icelandair flights from Czechia starting at only €441 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T18:00:53.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780141",
+   "titre": "Lower prices! 🤩 Cheap non-stop flights from Amsterdam to Curaçao🦩 for €383",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e383/",
+   "texte": "Trade grey skies for turquoise bays, warm Caribbean evenings and colorful waterfront streets. With discounted TUI and Corendon flights to Curaçao from €383 return, this is an easy way to turn winter into a proper tropical break.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T17:00:23.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780104",
+   "titre": "Holiday in Fuerteventura for €352 p.p. 🏖️ Cheap flights from Vienna + 7-night stay at well-rated aparthotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-fuerteventura-from-vienna-e352/",
+   "texte": "Great price for a sunny escape to the Canary Islands! Book cheap non-stop flights from Vienna and secure your stay at the highly rated aparthotel for only €352 per person (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T16:00:57.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780078",
+   "titre": "B&B stay at highly rated 5* Sheraton Senggigi Beach Resort on the island Lombok, Indonesia 🌴 🌊 for €65/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/5-star-resort-in-lombok-e65/",
+   "texte": "Set along the island's beautiful coastline, this beachfront resort offers the perfect setting for a relaxing getaway, complete with stunning sea views, inviting pools and excellent hospitality. Enjoy a comfortable double room with breakfast included for just €65 per night. A fantastic opportunity to experience five-star luxury for less!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T15:00:38.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780064",
+   "titre": "Adventure in Central America 🦜🌋 Air France flights from Madrid to several destinations from €468",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-central-america-e468/",
+   "texte": "Explore the incredible diversity of Guatemala, Costa Rica, Panama, and El Salvador with these affordable Air France flights from Madrid! From lush tropical rainforests and spectacular volcanoes to Caribbean beaches and fascinating colonial cities, with flights starting at just €468 return.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T14:00:54.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780085",
+   "titre": "Winter escape to Florida 😎 🌊 Cheap direct flights from London to Orlando for £370",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-florida-p370/",
+   "texte": "Escape the ordinary and fly Norse to the sun-soaked shores of Florida for just £370 return. No stopovers, no hassle — just you, the beach, and the best deal of the season.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T13:00:22.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780076",
+   "titre": "High Season ☀️ 🌴 B&B stay at 5* hotel by Hyatt in Da Nang, Vietnam for €42/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e42-3/",
+   "texte": "Planning a trip to Vietnam? We've got a great hotel deal for you! Book a double room at the 5* hotel with a rooftop swimming pool for only €42 per night!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T12:00:00.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780092",
+   "titre": "Good deal! 😎 ✌️ Full-service Qantas direct flights from London to Singapore for £599",
+   "lien": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-london-to-singapore-p599/",
+   "texte": "Score an incredible long-haul bargain with Qantas direct flights from London to Singapore from just £599 round trip. This limited-time deal is perfect for travellers seeking comfort, convenience, and world-class service at a surprisingly affordable price.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T11:00:47.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780058",
+   "titre": "Prices down! 💥 Cheap high season flights from Vienna to Sri Lanka for €407",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e407/",
+   "texte": "Whether you're after relaxing days by the Indian Ocean or unforgettable adventures inland, Sri Lanka promises an incredible holiday experience. Salamair is offering affordable flights to Colombo for just €407 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T10:00:29.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780053",
+   "titre": "Last-minute full-service direct flights from Poland to Vietnam for €539",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
+   "texte": "Take advantage of an incredible long-haul deal with LOT and fly to Ho Chi Minh City from just €539 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to explore Southeast Asia without overspending.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T09:00:10.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780042",
+   "titre": "FARE DROP 💥 Cheap non-stop flights from Scandinavia to Thailand 🌴 🥥 from €305",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-scandinavia-to-thailand-e305/",
+   "texte": "Dreaming of turquoise waters, white sand beaches, and tropical adventures? Now’s the perfect time to plan your escape! Discover the beauty of Thailand with discounted Norse flights starting at just €305 round-trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T08:00:09.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780038",
+   "titre": "HIGH SEASON 🏝️ Cheap full-service flights from Vienna to Zanzibar for €495",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-zanzibar-e495/",
+   "texte": "Escape to paradise where white sandy beaches, crystal-clear waters, and unforgettable sunsets await! Book discounted Air Cairo flights to Zanzibar for €495 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-11T07:00:15.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780025",
+   "titre": "Tenerife with a view! 🌊 5-star oceanfront hotel in Puerto de la Cruz, Canary Islands for €90/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-tenerife-e90/",
+   "texte": "If you want Tenerife without the huge resort complexes of the south, this is a very different kind of stay. We've found a 5-star hotel on the northern coast of Tenerife, set above the Atlantic in a quieter residential part of Puerto de la Cruz, with sweeping sea views, subtropical gardens, pools and a full spa.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T21:00:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780011",
+   "titre": "🌏🌺 AROUND THE WORLD VIA THE SOUTH PACIFIC! Sydney + Fiji + Hawaii in one epic trip from Frankfurt for €1053",
+   "lien": "https://www.fly4free.com/flight-deals/europe/round-the-world-trip-from-frankfurt-e1053/",
+   "texte": "This is a proper round-the-world journey, travelling continuously east from Europe through Asia, Australia and the South Pacific before crossing North America on the way home. And it’s beautifully balanced: start with one of the world’s great harbour cities, slow down on tropical Fijian islands, finish with five days in Hawaii — and even the two long connections can potentially become bonus mini-city stops.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T20:00:49.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780004",
+   "titre": "🌏✈️ The world’s longest flight in premium economy! One-way flights from New York to Singapore from €484",
+   "lien": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
+   "texte": "Almost 18 hours in the air and more than 15,000 km across the globe! Singapore Airlines is offering one-way Premium Economy tickets from New York JFK to Singapore from just €498 on what is currently the world’s longest scheduled non-stop passenger flight. For aviation fans alone, this is a bucket-list flight — but it’s also a genuinely interesting way to reach Southeast Asia in considerably more comfort than standard Economy.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T18:30:11.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779829",
+   "titre": "💞Valentine’s Day: 10 romantic trips for two, from an overnight train to a chocolate workshop",
+   "lien": "https://www.fly4free.com/flight-deals/europe/valentines-day-10-romantic-trips-for-two-from-an-overnight-train-to-a-chocolate-workshop/",
+   "texte": "Fall asleep on an overnight train and wake up in Switzerland, learn to make apple strudel together or end Valentine’s Day looking through a telescope. A romantic getaway can be built around an experience you have always wanted to share. It gives the weekend a focus while leaving plenty of time for walks, conversation and leisurely breakfasts.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T18:17:33.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=171101",
+   "titre": "Gamme de cartes Marriott Bonvoy American Express: Nouvelle carte et changements majeurs aux 2 cartes existantes",
+   "lien": "https://flytrippers.com/fr/changements-cartes-marriott-amex/",
+   "texte": "Ça bouge dans les cartes de crédit hôtelières! Quelques jours après le dévoilement de la toute nouvelle Carte Hilton Honors Amex (et de son offre de lancement incontournable pour tous), Marriott et Amex ont annoncé des changements à leur gamme de cartes aujourd’hui. Il va y avoir une nouvelle carte sans frais… et des modifications […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-10T17:34:59.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779990",
+   "titre": "High-season escape to Panama 🏝️ Cheap flights from Madrid from €425",
+   "lien": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-madrid-to-panama/",
+   "texte": "Want a tropical trip that gives you much more than just beaches? Avianca is offering return flights from Madrid to Panama from just €425, opening the door to one of Central America’s most varied destinations.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T17:00:28.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779999",
+   "titre": "CHEAP! Full-service flights from Frankfurt to Mauritius 🏝️ for €382",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-mauritius-e382/",
+   "texte": "Secure your ticket to paradise with these super cheap Discover Airlines flights to Mauritius starting at just €382 for a round trip! Explore the island where spectacular scenery and endless summer days meet a fascinating cultural blend.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T15:30:11.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779930",
+   "titre": "🚢 Mediterranean cruise aboard MSC’s brand-new megaship World Asia from €609 p.p.",
+   "lien": "https://www.fly4free.com/flight-deals/europe/8-day-cruise-msc-world-asia/",
+   "texte": "Catch this cheap cruise before MSC World Europa repositions to the Caribbean! This is a very strong 7-day / 6-night Mediterranean cruise aboard MSC World Europa, starting and ending in Barcelona and calling at some of the most famous cities on the western Mediterranean.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T14:00:06.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779896",
+   "titre": "High season escape to the Caribbean 🌊 Direct flights from Paris to Martinique 🏝️ from €456",
+   "lien": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e456/",
+   "texte": "Swap European winter for turquoise bays, palm-fringed beaches, rainforest-covered mountains and warm Caribbean evenings. Corsair is offering direct return flights from Paris to Fort-de-France from just €456, making Martinique a very tempting option for a winter escape.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T12:30:50.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779912",
+   "titre": "🌊 Polished stay in the French Riviera: Best Western 4* hotel in Nice from €77/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/best-western-nice-hotel/",
+   "texte": "If you want to stay somewhere that puts the beach, Old Town, shopping streets and the flower market all within easy walking distance, this is a very practical and premium option in central Nice.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T11:00:01.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779945",
+   "titre": "Cheap non-stop flights from London to Phuket, Thailand 🌴 for £458",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-phuket-p458/",
+   "texte": "Don't miss out on this great opportunity to explore the vibrant culture, stunning beaches, and delicious cuisine of Thailand with these Norse non-stop flights to Phuket!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T10:00:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779814",
+   "titre": "Cheap holiday in Madeira for €371 p.p. ☀️ 🌊 Direct flights from Poland + 7-night B&B stay at 4* hotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-madeira-from-katowice-e371/",
+   "texte": "Discover the scenic Portuguese island of Madeira! Book cheap direct Wizz Air flights to Funchal and accommodation at well-rated hotel for only €371 per person (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T09:00:54.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779921",
+   "titre": "Cheap full-service flights from Brussels to Thailand & Malaysia 🌴 from €455",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e458/",
+   "texte": "Looking for an exotic escape or an unforgettable adventure in Southeast Asia? Take advantage of this incredible flight deal: fly to Bangkok or Kuala Lumpur with Hainan Airlines for €455 roundtrip with checked bags included.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T08:00:06.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779954",
+   "titre": "Cheap full-service flights from many European cities to Los Angeles 🏄 for €394",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e394/",
+   "texte": "Soak up the sun, stroll Hollywood Boulevard, or explore Yosemite — your West Coast adventure awaits! Royal Air Maroc is offering discounted airfares to Los Angeles starting at €394 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-10T07:00:10.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779559",
+   "titre": "Warm waters beneath winter skies: 10 thermal spas in Europe for a short break",
+   "lien": "https://www.fly4free.com/news/warm-waters-beneath-winter-skies-10-thermal-spas-in-europe-for-a-short-break/",
+   "texte": "Winter bathing in the open air can mean soaking among Alpine peaks, relaxing in a park filled with centuries-old trees or enjoying a panoramic pool overlooking a river. This selection brings together ten thermal spas across Europe for a short break, offering everything from hydrotherapy pools and saunas to quiet spaces to unwind between dips.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-09T21:26:53.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779885",
+   "titre": "Fares down! 💥 Non-stop flights from several UK cities to exotic Barbados 🏝️ from £417",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p417/",
+   "texte": "This excellent TUI deal makes Caribbean sunshine more affordable than ever. You can now book direct flights to Bridgetown for just £417 return, even during peak travel months when prices are usually much higher.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-09T21:00:30.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779907",
+   "titre": "PRICE DROP 💥 Last-minute full-service direct flights from Poland to Sri Lanka 🌴 from €476",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e476/",
+   "texte": "Enter Air is offering discounted flights to Colombo from just €476 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-09T20:00:24.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=779858",
+   "titre": "PEAK SEASON 🌊 🌴 Cheap full-service flights from London to Philippines for £425",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-the-philippines-p425/",
+   "texte": "Dreaming of white-sand beaches and tropical sunsets? This excellent flight deal makes the Philippines more accessible than ever! Full-service flights with Xiamen Airlines to Manila start from just £425 return, offering fantastic value for long-haul travel.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-09T19:00:00.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=170772",
+   "titre": "Bienvenue, David: Présentation d’un de nos nouveaux collaborateurs Flytrippers",
+   "lien": "https://flytrippers.com/fr/david-nouveau-collaborateur/",
+   "texte": "Aujourd’hui, je veux te présenter brièvement notre nouveau collaborateur, David Lemieux. Toute l’équipe de Flytrippers est très heureuse de l’accueillir, mais surtout moi en particulier: David va rédiger du contenu sur les récompenses-voyage pour m’aider à mieux t’aider avec le meilleur truc qui te permet de voyager pour moins. En passant, si tu veux toi […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-08T15:40:47.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=169947",
+   "titre": "Survol de mon voyage nord-américain en octobre",
+   "lien": "https://flytrippers.com/fr/survol-voyage-amerique-du-nord-andrew-2026/",
+   "texte": "Juste quelques jours après mon retour de mon voyage d’un mois en Europe, j’étais déjà reparti pour un autre voyage. Celui-ci était un voyage bleisure (mi-affaires, mi-loisirs), comme plusieurs de mes voyages. Entre 4 événements dans 4 villes différentes, j’ai réussi à insérer 2 concerts dans 2 autres villes. Le bout initial avait 5 vols […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-06T07:10:23.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=170782",
+   "titre": "Comment maximiser tes récompenses accumulées et obtenir 47% de remise au lieu de juste 1%",
+   "lien": "https://flytrippers.com/fr/comment-maximiser-recompenses-accumulees/",
+   "texte": "Si tu aimes obtenir des voyages gratuits, tu dois absolument utiliser les portails de magasinage en ligne. C’est encore plus important à l’approche des Fêtes, une période où tu as plusieurs dépenses! Ne fais pas l’erreur siiii commune d’accumuler un pathétique 1% de remise quand exactement la même dépense peut te donner 47% en étant […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-04T21:27:13.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=170654",
+   "titre": "Les États-Unis ont une nouvelle exigence d’entrée pour tous les passagers aériens",
+   "lien": "https://flytrippers.com/fr/nouvelle-exigence-entree-etats-unis/",
+   "texte": "Les États-Unis ont une nouvelle exigence d’entrée pour toutes les arrivées par voie aérienne depuis mardi soir (rien à voir avec leur élection). C’est temporaire et ce n’est qu’une nouvelle attestation simple à remplir en réponse à l’épidémie d’Ebola. Donc c’est vraiment très mineur et ne mérite absolument pas le clickbait dramatique que plusieurs semblent […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-04T12:54:34.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/lcn-a-interviewe-flytrippers-astuces-pour-economiser-sur-un-voyage-estival-en-europe/",
+   "titre": "CBC a interviewé Flytrippers: Nouveaux frais de 30$ d’Air Canada pour les réservations par téléphone",
+   "lien": "https://flytrippers.com/fr/notre-entrevue-cbc-frais-telephone-air-canada/",
+   "texte": "J’ai été interviewé par CBC en tant qu’expert sur le sujet très clivant des frais des transporteurs aériens. Bien des voyageurs ne les aiment pas (un réflexe normal), mais n’apprécient pas que c’est précisément cette segmentation de marché qui fait en sorte que prendre l’avion n’a littéralement jamais été aussi peu cher de toute l’Histoire […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-02T09:48:44.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/how-to-book-hotels-for-less-introduction/",
+   "titre": "Comment réserver des hôtels pour moins cher: introduction",
+   "lien": "https://flytrippers.com/fr/comment-reserve-hotels-pour-moins-chers/",
+   "texte": "Voyager pour moins, c’est siiiiiii simple. Tu dois juste investir un peu de temps. Dans le cas d’une réservation d’hôtel, comme pour la plupart des choses liées aux voyages, c’est vraiment simple: compare, compare, compare… et compare encore. C’est vraiment juste ça. Prends le temps de comparer. Mais c’est certainement utile de connaître des astuces […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-01T15:00:28.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=170302",
+   "titre": "GÉNIAL: La chaîne d’hôtels Hilton lance une nouvelle carte de crédit avec une énorme prime de bienvenue",
+   "lien": "https://flytrippers.com/fr/lancement-carte-credit-hilton-amex/",
+   "texte": "On est très excités de t’annoncer une excellente nouvelle aujourd’hui, l’une des meilleures de l’année pour les voyageurs canadiens: le lancement de la toute nouvelle Carte Hilton Honors American Express! Et la prime de bienvenue spéciale inaugurale peut valoir 4000$+ en hôtels de luxe gratuits!!! C’est assez fou! Flytrippers a été invité à une soirée […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-10-29T15:18:39.000Z"
+  },
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=170280",
+   "titre": "Survol de mon voyage au Turkménistan",
+   "lien": "https://flytrippers.com/fr/turkmenistan-survol-voyage-kevin-2026/",
+   "texte": "J’ai passé 7 jours au Turkménistan en février dernier, et c’est le pays le plus unique où je suis allé depuis longtemps. Le fameux cratère de gaz « Porte de l’Enfer » qui brûle sans arrêt, les édifices en marbre blanc de la capitale Ashgabat qui se remplissent de couleurs la nuit (et les voitures blanches) ne […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-10-28T19:21:23.000Z"
   }
  ]
 }
