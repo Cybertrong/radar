@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T02:40:15.607Z",
+ "maj": "2026-11-13T12:19:40.086Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,60 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780358",
+   "titre": "Wizz Air returns to domestic flights in Romania after eight-year break",
+   "lien": "https://www.fly4free.com/flight-deals/europe/wizz-air-returns-to-domestic-flights-in-romania-after-eight-year-break/",
+   "texte": "Low-cost airline Wizz Air is resuming flights between two of Romania’s largest cities, Bucharest and Cluj-Napoca. The carrier is returning to the route after an eight-year absence, offering up to two flights a day. The first services are scheduled for December, with one-way fares starting at RON 199 (approximately €37).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T11:17:08.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780346",
+   "titre": "🕹 Stylish retro design hotel just steps from Las Ramblas in Barcelona for €92/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/stylish-hotel-in-barcelona-e92/",
+   "texte": "If you like hotels with personality, this one is much more interesting than a standard city stay. We've found a design hotel inspired entirely by Barcelona in the 1960s, with pop-art details, vintage photography, bold graphics and even an original Seat 600 parked in the lobby.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T11:00:45.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780392",
+   "titre": "THAILAND’S PEAK SEASON 😎 🍹 Holiday in Phuket for €790 p.p: flights from Prague + 10-night stay at well-rated 4* hotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-prague-e790/",
+   "texte": "Jump at the chance to book a budget-friendly holiday in Thailand! The price includes discounted Air Arabia flights and accommodation at the highly rated 4* hotel for €790 per person (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T10:00:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780408",
+   "titre": "Cheap non-stop flights from several UK cities to Cape Verde ☀️ from £137",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-cape-verde-p137/",
+   "texte": "Escape to the sun-drenched island of Sal with these discounted direct flights offered by TUI Airways! Book tickets starting at only £137 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T09:00:21.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780402",
+   "titre": "First minute full-service flights from Vienna to Taiwan for €565",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-taiwan-e565/",
+   "texte": "New dates are available now! Dreaming of night markets, lush mountains, and vibrant cityscapes? Book your seat to Taipei with Air China for only €565 return.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T08:00:00.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780370",
+   "titre": "Etihad Airways flights from many European cities to Chiang Mai, Thailand from €513",
+   "lien": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-chiang-mai-e513/",
+   "texte": "Dreaming of an unforgettable trip to Thailand? Fly Etihad Airways to Chiang Mai starting at only €513 round trip. Enjoy Etihad’s award-winning service, comfortable cabins, and smooth connections via Abu Dhabi.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-13T07:00:30.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780343",
    "titre": "Act fast, new lower fares to Sri Lanka! 💥 Last-minute full-service direct flights from Poland from €419",
