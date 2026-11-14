@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T18:14:20.749Z",
+ "maj": "2026-11-14T22:34:36.038Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,96 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780452",
+   "titre": "Wizz Air switches Brussels airports: reach the city centre in under 20 minutes",
+   "lien": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
+   "texte": "Travelling from Budapest to Brussels is about to become more convenient. Wizz Air is moving its flights from the more distant Charleroi Airport to Brussels Airport in Zaventem, the Belgian capital’s main airport. The change will allow passengers to reach central Brussels by direct train in under 20 minutes. The switch takes effect on 4 February 2027, and tickets are already available to book.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T21:37:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780635",
+   "titre": "Full-service flights from London to the island of Hainan, China for £468",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
+   "texte": "Discover China like never before: fly Tianjin and Hainan Airlines to the tropical paradise of Hainan with full-service comfort — starting from just £468 return with checked bags included. Your next adventure awaits!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T21:00:56.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780625",
+   "titre": "Singapore Airlines direct flights from Frankfurt to New York 🗽 for €486",
+   "lien": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-frankfurt-to-new-york-e486/",
+   "texte": "Looking for a great deal on flights to the Big Apple? Take advantage of this limited-time offer from Singapore Airlines, one of the world’s top-rated carriers. Fly non-stop to New York (JFK) for €486 round-trip! Comfort, convenience, and world-class service at an unbeatable price.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T20:00:07.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327900",
+   "titre": "Scandinavian Airlines: San Francisco – Gothenburg, Sweden. $615 (Basic Economy) / $695 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-san-francisco-gothenburg-sweden-615-basic-economy-695-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Gothenburg Matrix Airfare Search by ITA Software will price this at $629 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T19:53:53.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327896",
+   "titre": "Scandinavian Airlines: Los Angeles – Gothenburg, Sweden. $537 (Basic Economy) / $617 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-los-angeles-gothenburg-sweden-537-basic-economy-617-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Gothenburg Matrix Airfare Search by ITA Software will price this at $551 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T19:28:27.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327891",
+   "titre": "Icelandair: Portland – Brussels, Belgium. $546 (Basic Economy) / $686 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/icelandair-portland-brussels-belgium-546-basic-economy-686-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Brussels The $686 fare includes ONE checked bag (if you don’t select the regular economy fare, checked luggage Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T19:23:13.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327887",
+   "titre": "Delta: Phoenix – Marrakech, Morocco. $734 (Basic Economy) / $974 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/delta-phoenix-marrakech-morocco-734-basic-economy-974-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Marrakech. Pricing will vary slightly depending on routing. The $974 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T19:18:05.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780601",
+   "titre": "Cheap full-service flights from Amsterdam to Bali, Indonesia 🌸 from €512",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e512/",
+   "texte": "Dreaming of a tropical escape? This excellent deal with China Eastern Airlines ets you fly to Denpasar from €512 return — an unbeatable price for such a long-haul adventure!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T19:00:04.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327883",
+   "titre": "American: Newark – Guadalajara, Mexico. $330 (Basic Economy) / $360 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/american-newark-guadalajara-mexico-330-basic-economy-360-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Guadalajara The $360 fare is the regular fare which allows for a normal size carry-on and one personal Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T18:53:35.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327879",
+   "titre": "Scandinavian Airlines: San Francisco – Stavanger, Norway. $655 (Basic Economy) / $735 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-san-francisco-stavanger-norway-655-basic-economy-735-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stavanger Matrix Airfare Search by ITA Software will price this at $669 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T18:23:54.000Z"
+  },
   {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=327874",
    "titre": "The Shorthaul – Delta: Philadelphia – Atlanta (and vice versa). $157 (Basic Economy) / $287 (Regular Economy). Roundtrip, including all Taxes",
