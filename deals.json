@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T02:29:11.981Z",
+ "maj": "2026-11-14T11:35:22.608Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,42 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780499",
+   "titre": "Cheap full-service flights from many European cities to the Philippines 🏝️ from €491",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-philippines-e491/",
+   "texte": "A tropical holiday in the Philippines doesn’t have to cost a fortune! Oman Air is offering discounted return flights to Manila starting at €491, offering an excellent opportunity to visit one of Asia’s most beautiful destinations for less.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T11:00:17.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780506",
+   "titre": "Cheap non-stop flights from many European cities to Madeira ☀️ 🌊 from €38",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
+   "texte": "Your island getaway is just one flight away – no layovers, no hassle! Book now affordable Ryanair and Easyjet flights to Funchal starting at only €38 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T10:00:01.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780493",
+   "titre": "🏝️ CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire for €380",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e380/",
+   "texte": "Swap grey Dutch weather for turquoise water, coral reefs and slow Caribbean days! TUI and Corendon are offering direct flights from Amsterdam to Bonaire from just €380 return, making this one of the easiest ways to reach a quieter side of the Dutch Caribbean.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T09:00:08.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780533",
+   "titre": "Last-minute full-service direct flights from Warsaw to the Dominican Republic 🏝️ for €593",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-the-dominican-republic-e593/",
+   "texte": "Ready for sun-soaked beaches and Caribbean vibes? LOT is offering discounted flights to Puerto Plata from just €593 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T08:00:48.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780460",
    "titre": "HUGE collection of cheap Etihad Airways flights from many European cities to Phuket, Krabi, and Bangkok, Thailand 🔥 from €434",
