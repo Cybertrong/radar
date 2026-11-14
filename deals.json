@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T11:35:22.608Z",
+ "maj": "2026-11-14T18:14:20.749Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,150 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327874",
+   "titre": "The Shorthaul – Delta: Philadelphia – Atlanta (and vice versa). $157 (Basic Economy) / $287 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/the-shorthaul-delta-philadelphia-atlanta-and-vice-versa-157-basic-economy-287-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Atlanta The $287 fare is the regular fare which allows for normal size carry-on and personal Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T18:13:17.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327870",
+   "titre": "Alaska Air: Seattle – San Diego (and vice versa). $127 (Basic Economy) / $237 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/alaska-air-seattle-san-diego-and-vice-versa-127-basic-economy-237-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from San Diego The $237 fare is a regular economy fare with advance seat assignment and normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T18:03:12.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780541",
+   "titre": "Full-service flights from London & Stockholm to New Zealand from €621",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand-e621/",
+   "texte": "Looking for an unforgettable long-haul getaway? Take advantage of this amazing deal: fly to Auckland with China Eastern Airlines for just €621 roundtrip! Full-service means your fare includes meals, drinks, checked baggage, and in-flight entertainment, so you can relax and enjoy the journey.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T18:00:07.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327866",
+   "titre": "Scandinavian Air: Los Angeles – Stavanger, Norway. $587 (Basic Economy) / $667 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-air-los-angeles-stavanger-norway-587-basic-economy-667-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stavanger Matrix Airfare Search by ITA Software will price this at $601 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:53:07.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327863",
+   "titre": "Cathay Pacific: Dallas – Guangzhou, China. $908. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/cathay-pacific-dallas-guangzhou-china-908-roundtrip-including-all-taxes-2/",
+   "texte": "A good sale to Guangzhou Sample Travel Date: January 21st – 28th, 2027 This is just ONE SAMPLE travel date, for more Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:43:52.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327860",
+   "titre": "Scandinavian Airlines: Chicago – Gothenburg, Sweden. $449 (Basic Economy) / $529 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-chicago-gothenburg-sweden-449-basic-economy-529-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Gothenburg Matrix Airfare Search by ITA Software will price this at $463 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:33:51.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327857",
+   "titre": "United: Miami – Manila, Philippines. $879 (Basic Economy) / $1,119 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/united-miami-manila-philippines-879-basic-economy-1119-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Manila. United’s $1,119 fare is a regular economy fare with TWO checked bags , normal size carry-on and Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:23:12.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327853",
+   "titre": "Cathay Pacific: New York – Penang, Malaysia. $891. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/cathay-pacific-new-york-penang-malaysia-891-roundtrip-including-all-taxes-3/",
+   "texte": "A good sale to Penang Sample Travel Date: February 23rd, 2027 – March 4th, 2027 This is just ONE SAMPLE travel date, Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:13:07.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327848",
+   "titre": "Scandinavian Airlines: Boston – Stavanger, Norway. $493 (Basic Economy) / $572 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-boston-stavanger-norway-493-basic-economy-573-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stavanger Matrix Airfare Search by ITA Software will price this at $507 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T17:03:09.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780557",
+   "titre": "Beachfront 4* hotel & spa on the Portuguese island of Porto Santo (Madeira archipelago) 🌴 🌊 for €62/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-santo-e62/",
+   "texte": "Hotel bargain in the Madeira archipelago! Book a double room at 4* aparthotel & spa with a beachfront setting and swimming pools for only €31/night per person.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T17:00:03.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327844",
+   "titre": "Scandinavian Airlines: Washington D.C. – Helsinki, Finland. $461 (Basic Economy) / $538 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/14/scandinavian-airlines-washington-d-c-helsinki-finland-461-basic-economy-538-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Helsinki. Matrix Airfare Search by ITA Software will price this at $472 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-14T16:53:53.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780608",
+   "titre": "Air France flights from Italian cities to Fortaleza, Brazil 😎 🍹 from €506",
+   "lien": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-italy-to-fortaleza-e506/",
+   "texte": "Escape the European cold with these cheap Air France flights to Fortaleza, one of Brazil’s most exciting beach destinations, from just €506 return. Fortaleza is famous for its long sandy beaches, warm temperatures, lively waterfront and vibrant Brazilian atmosphere.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T16:00:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780576",
+   "titre": "Luxury stay in Venice 😏 ✨ Elegant 4* Hotel Carlton On The Grand Canal for €80/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e80/",
+   "texte": "Experience the magic of Venice with an elegant 4-star stay at Hotel Carlton! Located right along the iconic Grand Canal, this charming hotel offers a refined atmosphere and a fantastic base for exploring the city's romantic canals, historic landmarks and picturesque streets. Enjoy a touch of Venetian luxury without breaking the bank, with double rooms starting at just €80.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T15:00:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780522",
+   "titre": "CHEAP 💥 Non-stop flights from Barcelona to New York for €349",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-new-york-e349/",
+   "texte": "Level by Iberia is offering discounted non-stop flights from to New York (JFK)! Tickets available from only €349 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T14:00:50.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780519",
+   "titre": "SUMMER ☀️ Flights from Prague to Seoul, South Korea 🍜 for €551",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-seoul-e551/",
+   "texte": "Looking for an unforgettable summer adventure in Asia? This peak-season flight deal is your chance to experience the vibrant energy of Seoul at an incredible price. Fly with LOT from Prague to South Korea’s dynamic capital for just €551 return and discover a city where tradition meets cutting-edge modern life.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T13:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780568",
+   "titre": "B&B stay at beachfront 4* Protels La Plage Resort in Zanzibar for €54/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-zanzibar-e54/",
+   "texte": "Plan an exotic escape to Zanzibar booking a double room at the highly rated 4* hotel with a beachfront setting starting at only €54/night.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-14T12:00:53.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780499",
    "titre": "Cheap full-service flights from many European cities to the Philippines 🏝️ from €491",
