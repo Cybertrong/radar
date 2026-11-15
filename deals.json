@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-15T06:45:27.068Z",
+ "maj": "2026-11-15T15:43:06.689Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,78 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780703",
+   "titre": "Winter break in sunny Malta ☀️ Well-rated and sea view 4* Pergola Hotel & Spa ♨️ for €36/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-malta-e36/",
+   "texte": "Fancy a winter escape to Malta? Book a double room at the highly rated 4* hotel & spa offering spectacular sea views for only €36/night.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T15:00:56.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780688",
+   "titre": "Tropical adventure! 🏝️ 🥥 Non-stop flights from Frankfurt to Mauritius for €568",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-mauritius-e568/",
+   "texte": "Ready for an unforgettable tropical adventure? Secure your ticket to paradise with these Condor non-stop flights to Mauritius starting at just €568 for a round trip! Discover an island where spectacular scenery and endless summer days meet a fascinating cultural blend.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T14:00:59.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780679",
+   "titre": "Well-rated and stylish 4* hotel in central Munich 🥨 🍻 from €65/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-munich-e65-3/",
+   "texte": "Discover the Bavarian capital’s lively beer halls, traditional beer gardens, historic squares, and fascinating museums while keeping your accommodation costs low.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T13:00:32.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780696",
+   "titre": "Malaysia last minute 😎 🌴 Cheap full-service LOT direct flights from Warsaw to Penang for €483",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e483/",
+   "texte": "Fancy swapping European autumn for street-food nights, tropical heat and one of Southeast Asia’s most atmospheric islands? LOT is offering direct return flights from Warsaw to Penang from just €483 — a rare chance to reach this Malaysian island without an extra connection.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T12:00:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780671",
+   "titre": "Cheap non-stop flights from Manchester to Madeira 🌞 from £57",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-madeira-p57/",
+   "texte": "Looking for a sunny escape at an unbeatable price? This incredible Jet2 flight deal is your chance to visit the stunning island of Madeira from just £57 return! Departing from Manchester, it’s never been easier — or cheaper — to experience one of Europe’s most breathtaking destinations.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T11:00:48.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780660",
+   "titre": "Thailand last minute! 🌴 🥥 Full-service LOT direct flights from Warsaw to Phuket for €632",
+   "lien": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-warsaw-to-phuket-e632/",
+   "texte": "LOT is offering discounted flights to Thailand — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €632.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T10:00:54.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780642",
+   "titre": "Cheap full-service flights from London to the island of Jeju, South Korea for £477",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
+   "texte": "Looking for a unique, full-service getaway in Asia? Fly to Seoul starting at £477 round trip with Air China and Juneyao Airlines. This means checked luggage, meals, and comfortable seating are included - no hidden fees or budget-airline surprises.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T08:59:33.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780651",
+   "titre": "Cheap full-service flights from Vienna to Bangkok, Thailand for €465",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
+   "texte": "Fantastic chance to fly to Thailand on a budget! Saudia is offering discounted flights from Vienna to Bangkok starting at only €465 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-15T08:00:38.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780452",
    "titre": "Wizz Air switches Brussels airports: reach the city centre in under 20 minutes",
