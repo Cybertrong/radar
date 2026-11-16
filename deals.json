@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-16T09:54:10.141Z",
+ "maj": "2026-11-16T20:33:01.530Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,222 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780889",
+   "titre": "☀️ Caribbean winter escape! Full-service flights from Frankfurt to Puerto Rico from €570 return",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-puerto-rico-e570/",
+   "texte": "Swap grey winter days for turquoise water, palm-lined beaches and warm Caribbean evenings. Condor and JetBlue are offering return flights from Frankfurt to San Juan from €571, including high-season dates.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T20:00:27.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328025",
+   "titre": "Scandinavian Airlines: San Francisco – Vienna, Austria. $659 (Basic Economy) / $739 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-san-francisco-vienna-austria-659-basic-economy-739-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Vienna Matrix Airfare Search by ITA Software will price this at $673 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T19:53:38.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328019",
+   "titre": "Scandinavian Airlines: Los Angeles – Oslo, Norway. $557 (Basic Economy) / $637 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-los-angeles-oslo-norway-557-basic-economy-637-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Oslo Matrix Airfare Search by ITA Software will price this at $571 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T19:28:39.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328016",
+   "titre": "Delta: Portland – Porto, Portugal. $728 (Basic Economy) / $968 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/delta-portland-porto-portugal-728-basic-economy-968-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Porto. Pricing will vary slightly depending on routing. The $968 fare includes advance seat assignment, a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T19:23:10.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328012",
+   "titre": "Korean Air: Phoenix – Ho Chi Minh City, Vietnam. $794. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/korean-air-phoenix-ho-chi-minh-city-vietnam-794-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Ho Chi Minh City. Matrix Airfare Search by ITA Software will price this at $828. Use those dates Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T19:18:45.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328008",
+   "titre": "jetBlue: New York – Liberia, Costa Rica. $312 (Basic Economy) / $382 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/jetblue-new-york-liberia-costa-rica-312-basic-economy-382-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to the Guanacaste province of Costa Rica. The $382 fare is a regular economy fare which Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T18:53:28.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780872",
+   "titre": "🌍✈️ ROUND-THE-WORLD ADVENTURE! Vancouver + Hawaii + San Francisco + Vietnam in one epic trip from Italy for €1138",
+   "lien": "https://www.fly4free.com/flight-deals/europe/canada-hawaii-usa-vietnam-from-italy/",
+   "texte": "This is one of those itineraries where every stop feels like a completely different holiday. Start with mountains, ocean and spring blossoms in Vancouver, continue to Hawaii for a luxurious 10-night tropical chapter, cross back to California for four days in San Francisco, then fly across the Pacific once again and finish with a full week in northern Vietnam.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T18:30:26.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328003",
+   "titre": "Scandinavian Airlines: San Francisco – Oslo, Norway. $655 (Basic Economy) / $735 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-san-francisco-oslo-norway-655-basic-economy-735-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Oslo Matrix Airfare Search by ITA Software will price this at $669 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T18:23:40.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327999",
+   "titre": "Alaska Air: Philadelphia – Fairbanks, Alaska (and vice versa). $494 (Basic Economy) / $604 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/alaska-air-philadelphia-fairbanks-alaska-and-vice-versa-494-basic-economy-604-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from Fairbanks The $604 fare is the regular fare includes advance seat assignment and normal size carry-on Alaska Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T18:13:37.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327996",
+   "titre": "Delta: Seattle – Gothenburg, Sweden. $554 (Basic Economy) / $794 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/delta-seattle-gothenburg-sweden-554-basic-economy-794-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Gothenburg. Pricing will vary slightly depending on routing. The $794 fare includes advance seat assignment, a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T18:03:02.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327991",
+   "titre": "Scandinavian Airlines: Los Angeles – Zurich, Switzerland. $657 (Basic Economy) / $737 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-los-angeles-zurich-switzerland-657-basic-economy-737-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Zurich. Matrix Airfare Search by ITA Software will price this at $671 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:53:30.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327986",
+   "titre": "Korean Air: Dallas – Hanoi, Vietnam. $886. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/korean-air-dallas-hanoi-vietnam-886-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Hanoi Matrix Airfare Search by ITA Software will price this at $923. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:43:12.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327982",
+   "titre": "Scandinavian Airlines: Chicago – Helsinki, Finland. $557 (Basic Economy) / $637 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-chicago-helsinki-finland-557-basic-economy-637-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Helsinki Matrix Airfare Search by ITA Software will price this at $571 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:33:43.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327978",
+   "titre": "Scandinavian Airlines: Miami – Zurich, Switzerland. $609 (Basic Economy) / $689 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-miami-zurich-switzerland-609-basic-economy-689-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Zurich. Matrix Airfare Search by ITA Software will price this at $623 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:23:43.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780849",
+   "titre": "A Schengen for Southeast Asia? Vietnam, Cambodia and Laos discuss a single visa",
+   "lien": "https://www.fly4free.com/news/a-schengen-for-southeast-asia-vietnam-cambodia-and-laos-discuss-a-single-visa/",
+   "texte": "Cambodia, Laos and Vietnam are joining forces to make it easier for tourists to visit all three countries in a single trip. Officials have agreed to develop joint tourist routes, improve transport links and simplify border crossings. Among the plans is a nine-day tour covering all three countries, while the possibility of introducing a single visa modelled on Europe's Schengen system is also being discussed.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T17:17:36.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327974",
+   "titre": "Delta: New York – Mumbai, India. $789 (Basic Economy) / $939 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/delta-new-york-mumbai-india-789-basic-economy-939-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Mumbai. Pricing will vary slightly depending on routing. The $939 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:13:34.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327971",
+   "titre": "Scandinavian Airlines: Boston – Oslo, Norway. $414 (Basic Economy) / $494 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-boston-oslo-norway-414-basic-economy-494-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Oslo Matrix Airfare Search by ITA Software will price this at $425 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T17:03:20.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780851",
+   "titre": "🌊🌵 Discover Mexico’s Pacific side! Flights from Europe to Baja California from €413 return",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-baja-california-2/",
+   "texte": "If you want Mexico without the classic Caribbean-resort feel, Baja California is a very different kind of trip. Condor is offering return flights from several European cities to Baja California from just €413, opening the door to a road trip filled with desert landscapes, Pacific beaches, marine life and some of the most beautiful coastal scenery in Mexico.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T17:00:17.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=327968",
+   "titre": "Scandinavian Airlines: Washington D.C. – Stockholm, Sweden. $441 (Basic Economy) / $571 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/16/scandinavian-airlines-washington-d-c-stockholm-sweden-441-basic-economy-571-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stockholm Matrix Airfare Search by ITA Software will price this at $455 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-16T16:53:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780844",
+   "titre": "🇧🇴 Bolivia from €502! Cheap flights from Madrid to one of South America’s wildest destinations",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-bolivia-e502/",
+   "texte": "If you’re looking for a trip that feels genuinely different from the usual long-haul escape, Bolivia is hard to beat. Flights from Madrid to Santa Cruz (Viru Viru) start from just €502 return, giving you a very affordable entry point into a country of salt deserts, high-altitude lakes, Andean peaks, colonial cities and Amazon rainforest.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T15:30:29.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780778",
+   "titre": "🚢 Spring 2027 cruise deal: Portugal to Germany through 6 countries in 9 days from €399 p.p.",
+   "lien": "https://www.fly4free.com/flight-deals/europe/9-day-cruise-from-portugal-to-germany-e399/",
+   "texte": "This is a really interesting 9-day / 8-night one-way cruise aboard Costa Diadema, starting on Portugal’s Atlantic coast and finishing in northern Germany. For €399 per person, you get a route through Portugal, Spain, France, England, Denmark and Germany, plus three sea days that give you enough time to actually enjoy the ship instead of rushing from port to port.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T14:00:07.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780839",
+   "titre": "Great deal! 🤩️️️️️️ Qatar Airways flights from Warsaw to Cebu, Philippines 🏝️ from €590",
+   "lien": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-warsaw-to-the-philippines-e590/",
+   "texte": "Looking for your next tropical getaway? Take advantage of this great Qatar Airways flight deal to Manila for just €590 round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T12:30:20.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780772",
+   "titre": "CHEAP 🇨🇿 Classic Prague stay in a historic 4-star hotel near the Dancing House from €44/night",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-prague-e44-with-sauna/",
+   "texte": "If you want to stay somewhere central but with a little more character than a standard modern chain hotel, this hotel deal is a very solid option. The 4-star hotel occupies a renovated historic building in Prague 2, combining elegant interiors and period-style details with a location that makes most of the city’s main sights easy to reach on foot.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T11:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780828",
+   "titre": "HIGH SEASON 🌴 Non-stop flights from Paris to the Dominican Republic for €620",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-the-dominican-republic-e620/",
+   "texte": "Air Caraibes is offering discounted direct flights from Paris Orly to Punta Canada. Book tickets starting at €620 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T10:00:00.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780762",
    "titre": "⚡⚡ Wizz Air plans Loyalty Programme with points and miles",
