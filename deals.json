@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-16T02:13:41.004Z",
+ "maj": "2026-11-16T09:54:10.141Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,42 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780762",
+   "titre": "⚡⚡ Wizz Air plans Loyalty Programme with points and miles",
+   "lien": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1-wizz-air-plans-loyalty-programme-with-points-and-miles/",
+   "texte": "Wizz Air is considering introducing a fully fledged loyalty programme that would allow passengers to earn points or miles and redeem them for flights and additional services.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T09:47:10.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780819",
+   "titre": "Cheap open-jaw flights from Prague to Vietnam, returning to London for €462",
+   "lien": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-prague-to-vietnam-462/",
+   "texte": "Discover the magic of Vietnam! Take advantage of this combination of discounted Vietjet Air and Hainan Airlines/Air China/Shenzhen Airlines flights starting at just €462 return! This deal is perfect for travellers looking for an affordable long-haul adventure filled with culture, food, history, and unforgettable landscapes.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T09:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780807",
+   "titre": "Good deal 😎 ✌️ Cheap full-service flights from Budapest to Seoul, South Korea for €475",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
+   "texte": "Ready for your next adventure? Discover the vibrant culture, delicious cuisine, and stunning landscapes of South Korea with this excellent China Eastern Airlines deal!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T08:00:13.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780792",
+   "titre": "Thailand in High Season 😎 ☀️ Holiday in Phuket for €673 p.p: Full-service flights from Vienna + 10-night stay at top-rated 4* hotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
+   "texte": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines full-service Saudia flights to Phuket with a stay at the highly rated 4-star hotel for €673 per person, based on two people sharing.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T07:00:08.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780751",
    "titre": "Cheap full-service flights from Budapest to Taiwan for €477",
