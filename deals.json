@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-16T20:33:01.530Z",
+ "maj": "2026-11-17T04:34:34.022Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,15 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780894",
+   "titre": "Stay at the tallest hotel in Thailand with insane views 🤩 4* iconic hotel in Bangkok from €59/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
+   "texte": "Stay inside one of Bangkok’s most recognizable towers, with observation decks, panoramic restaurants and some of the city’s best views right above your room.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-16T21:00:56.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780889",
    "titre": "☀️ Caribbean winter escape! Full-service flights from Frankfurt to Puerto Rico from €570 return",
