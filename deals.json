@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-17T16:11:36.910Z",
+ "maj": "2026-11-17T23:33:25.838Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,186 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781060",
+   "titre": "GREAT DEAL 💥 Cheap full-service flights from London to Macau from €329",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-macau-p329/",
+   "texte": "From glittering skylines to rich cultural gems, your next unforgettable escape is just a booking away. Book now these discounted China Southern Airlines flights to Macau before this deal takes off!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-17T21:00:31.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781070",
+   "titre": "HIGH SEASON 😎 ☀️ Qatar Airways flights from European cities to Malaysia from €567",
+   "lien": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-malaysia-e567/",
+   "texte": "Whether you crave the bustling streets of Kuala Lumpur, the beaches of Langkawi, or the rainforests of Borneo – your Southeast Asian adventure begins now. Qatar Airways is offering discounted flights to Kuala Lumpur starting at €567 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-17T20:00:53.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328079",
+   "titre": "Singapore Air: San Francisco – Phuket, Thailand. $755. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/singapore-air-san-francisco-phuket-thailand-755-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Phuket Matrix Airfare Search by ITA Software will price this at $728. Use those dates on Singapore Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T19:53:03.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328075",
+   "titre": "Delta: Los Angeles – Cork, Ireland. $708 (Basic Economy) / $948 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/delta-los-angeles-cork-ireland-708-basic-economy-948-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Cork The $948 fare includes advance seat assignment, normal size carry-on and one checked bag. Delta / Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T19:28:21.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328073",
+   "titre": "Icelandair: Portland – Stockholm, Sweden. $434 (Basic Economy) / $554 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/icelandair-portland-stockholm-sweden-434-basic-economy-554-regular-economy-roundtrip-including-all-taxes-2/",
+   "texte": "A good sale to Stockholm The $554 fare includes ONE checked bag (if you don’t select the regular economy fare, checked luggage Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T19:23:30.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328070",
+   "titre": "American: Phoenix – Valencia, Spain. $730 (Basic Economy) / $970 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/american-phoenix-valencia-spain-730-basic-economy-970-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Valencia. Pricing will vary slightly depending on routing American / British Airways / Finnair / Iberia’s $970 fare Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T19:18:30.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=780986",
+   "titre": "Cheap full-service flights from Amsterdam to Melbourne & Sydney, Australia 🐨 from €652. Open-jaw for €670",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-australia-e652/",
+   "texte": "This amazing deal makes it more affordable than ever to explore the land Down Under! Xiamen Airlines are offering discounted flights starting at €652 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-17T19:00:16.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328066",
+   "titre": "Delta: New York – St. Thomas, US Virgin Islands. $281 (Basic Economy) / $401 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/delta-new-york-st-thomas-us-virgin-islands-281-basic-economy-401-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from St. Thomas The $401 fare is the regular fare includes advance seat assignment and a normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T18:53:17.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328063",
+   "titre": "Delta: San Francisco – Marrakech, Morocco. $761 (Basic Economy) / $1,001 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/delta-san-francisco-marrakech-morocco-761-basic-economy-1001-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Marrakech. Pricing will vary slightly depending on routing. The $1,001 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T18:23:45.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328059",
+   "titre": "United: Philadelphia – Kona, Hawaii (and vice versa). $638 (Basic Economy) / $808 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/united-philadelphia-kona-hawaii-and-vice-versa-638-basic-economy-808-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Kona The $808 is the Regular Economy fare with advance seat assignment and normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T18:13:36.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328055",
+   "titre": "Delta: Seattle – Stavanger, Norway. $605 (Basic Economy) / $845 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/delta-seattle-stavanger-norway-605-basic-economy-845-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stavanger. Pricing will vary slightly depending on routing. The $845 fare includes advance seat assignment, a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T18:03:06.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781111",
+   "titre": "Full-service flights from Frankfurt to Hawaii 🏝️ from €586",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-hawaii-e606/",
+   "texte": "Hawaii is the ultimate island escape, where picture-perfect beaches meet lush jungles and turquoise bays. Walk in the shadow of legendary volcanoes, catch epic sunsets over Waikiki, and snorkel in crystal-clear waters filled with vibrant marine life. Book Condor & Alaska Airlines flights starting at €586 return with checked bags included.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-17T18:02:18.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328051",
+   "titre": "Cathay Pacific: Los Angeles – Penang, Malaysia. $832. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/cathay-pacific-los-angeles-penang-malaysia-832-roundtrip-including-all-taxes-2/",
+   "texte": "A good sale to Penang Sample Travel Date: January 21st – 28th, 2027 This is just ONE SAMPLE travel date, for more Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:53:50.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328048",
+   "titre": "Alaska Air: Dallas – Maui, Hawaii (and vice versa). $430. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/alaska-air-dallas-maui-hawaii-and-vice-versa-430-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from Maui This is a regular economy fare with advance seat assignment and a normal size carry-on included Sample Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:43:04.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328043",
+   "titre": "American: Chicago – San Juan, Puerto Rico. $267 (Basic Economy) / $367 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/american-chicago-san-juan-puerto-rico-267-basic-economy-367-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to San Juan. The $367 fare is the regular fare which allows for normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:33:45.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328040",
+   "titre": "jetBlue: Fort Lauderdale – Guayaquil, Ecuador. $277 (Basic Economy) / $337 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/jetblue-fort-lauderdale-guayaquil-ecuador-277-basic-economy-337-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to Guayaquil The $337 fare is a regular economy fare which allows for a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:23:12.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328036",
+   "titre": "jetBlue: New York – San Juan, Puerto Rico. $171 (Basic Economy) / $211 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/jetblue-new-york-san-juan-puerto-rico-171-basic-economy-211-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to San Juan The $211 fare is a regular economy fare that allows for normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:13:58.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328032",
+   "titre": "jetBlue: Boston – San Juan, Puerto Rico. $239 (Basic Economy) / $329 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/jetblue-boston-san-juan-puerto-rico-239-basic-economy-329-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to San Juan. The $329 fare is a regular economy fare which allows for normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T17:03:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781006",
+   "titre": "Well-rated 4✨ Akeah Verdi Budapest for €45/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e45/",
+   "texte": "Take advantage of this good deal and book a stay at the well-rated 4* hotel in Budapest for only €45 per night (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-17T17:00:10.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328029",
+   "titre": "Scandinavian Airlines: Washington D.C. – Oslo, Norway. $441 (Basic Economy) / $521 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/17/scandinavian-airlines-washington-d-c-oslo-norway-441-basic-economy-521-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Oslo Matrix Airfare Search by ITA Software will price this at $455 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-17T16:53:46.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=780912",
    "titre": "HIGH SEASON ☀️ Cheap full-service flights from Milan to Malaysia for €458",
