@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T00:28:58.300Z",
+ "maj": "2026-11-19T10:28:01.788Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,51 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781282",
+   "titre": "Deal alert! 💥 Cheap flights from many European cities to tropical Mauritius 🏝️ from €345",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e345/",
+   "texte": "Amazing fares by Condor to the exotic Mauritius, now even cheaper — just from €345 from many European cities!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T10:00:33.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781223",
+   "titre": "Fantastic High Season deal ☀️ Cheap full-service flights from Brussels to Vietnam from €388",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-3/",
+   "texte": "This is a seriously good long-haul fare to Southeast Asia! Juneyao Airlines is offering discounted return flights to Hanoi or Ho Chi Minh from only €388, with checked baggage, meals and onboard entertainment included — making it an especially attractive option for high-season travel.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T09:00:49.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781269",
+   "titre": "Last-minute full-service direct flights from Poland to Malaysia, Vietnam & Thailand 🌴 🥥 from €496",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-poland-to-vietnam-thailand/",
+   "texte": "LOT and World2Fly are offering discounted flights to Penang, Phuket, Bangkok, and Ho Chi Minh — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €496.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T08:00:16.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781227",
+   "titre": "CHEAP 💥 Last minute flights from many European cities to exotic Trinidad and Tobago 🏝️ from €386",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
+   "texte": "Ready to trade the European winter chill for Caribbean sunshine? Now you can fly to the island of Trinidad from just €386 return with Condor! These round-trip deals from European cities bring you closer to a tropical paradise filled with palm-fringed beaches, vibrant music, and delicious local cuisine.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T07:00:46.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781256",
+   "titre": "Heymondo Black Friday Sale! 15% off your travel insurance ✈️🏥",
+   "lien": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
+   "texte": "Grab a 15% discount on Heymondo travel insurance by using the link provided in this article during this Black Friday sale!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T06:15:25.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781205",
    "titre": "Full-service flights from Lisbon to mega exotic Sao Tome and Principe 🌴 from €469",
