@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T10:28:01.788Z",
+ "maj": "2026-11-19T20:45:11.836Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -14,7 +14,7 @@
   {
    "nom": "YDeals",
    "ok": false,
-   "erreur": "HTTP 404"
+   "erreur": "HTTP 403"
   },
   {
    "nom": "Fly4free",
@@ -28,6 +28,222 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781359",
+   "titre": "☀️ Winter sun in Lanzarote! Direct flights from Bratislava + 7 nights at a 4-star hotel for €474 p.p.",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-lanzarote-from-bratislava-2/",
+   "texte": "Swap cold European winter for volcanic landscapes, ocean views and plenty of Canary Islands sunshine. This deal combines direct Ryanair flights from Bratislava with a week at a well-rated 4-star THB hotel for €474 per person, based on two people sharing.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T20:00:27.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328208",
+   "titre": "Korean Air: San Francisco – Seoul, South Korea. $629. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/korean-air-san-francisco-seoul-south-korea-629-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Seoul Matrix Airfare Search by ITA Software will price this at $656. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T19:53:04.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328203",
+   "titre": "Alaska Air / Qantas: Los Angeles – Sydney, Australia. $716. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/alaska-air-qantas-los-angeles-sydney-australia-716-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Sydney This fare include ONE checked bag. You will need to get an Electronic Travel Authorization for entry Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T19:48:58.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328199",
+   "titre": "Delta: Portland – Catania, Sicily, Italy. $716 (Basic Economy) / $956 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/delta-portland-catania-sicily-italy-716-basic-economy-956-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Catania. Pricing will vary slightly depending on routing The $956 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T19:23:23.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328196",
+   "titre": "Alaska Air: Phoenix – Kauai, Hawaii (and vice versa). $367 (Basic Economy) / $477 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/alaska-air-phoenix-kauai-hawaii-and-vice-versa-367-basic-economy-477-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from Kauai The $477 fare is a regular economy fare with advance seat assignment and a normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T19:18:35.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328193",
+   "titre": "Asiana: New York – Guangzhou, China. $870. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/asiana-new-york-guangzhou-china-870-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Guangzhou Matrix by Airfare Search will price this at $928. Use those dates on Expedia should reprice to Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T19:08:46.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781300",
+   "titre": "🏔️🚢 Norwegian fjords in spring! 7-night Holland America cruise from Amsterdam from €974 p.p.",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holland-america-cruise-through-norway-from-amsterdam/",
+   "texte": "This is a beautifully balanced 7-night Norway cruise in May aboard Holland America Line’s Zuiderdam, starting and ending in Amsterdam.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T18:45:32.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328189",
+   "titre": "Singapore Air: San Francisco – Manila, Philippines. $733. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/singapore-air-san-francisco-manila-philippines-733-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Manila Matrix Airfare Search by ITA Software will price this at $706. Use those dates on Singapore Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T18:43:49.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328185",
+   "titre": "United: Philadelphia – Anchorage, Alaska (and vice versa). $492 (Basic Economy) / $622 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/united-philadelphia-anchorage-alaska-and-vice-versa-492-basic-economy-622-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Anchorage The $622 is the Regular Economy fare with advance seat assignment and normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T18:33:20.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781344",
+   "titre": "Ryanair new routes for summer: Toulouse, Burgas and Varna",
+   "lien": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-four-new-routes-for-summer-2027/",
+   "texte": "Ryanair has announced four new routes for the summer 2027 season. Two will connect Toulouse in France with destinations in Ireland and the UK, while the other two will link the Bulgarian coastal resorts of Burgas and Varna with Poland and Germany. The first flights are set to begin in March.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T18:22:05.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328180",
+   "titre": "Singapore Air: Seattle – Bali, Indonesia. $649. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/singapore-air-seattle-bali-indonesia-649-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Bali Matrix Airfare Search by ITA Software will price this at $721. Use those dates on Singapore Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T18:03:52.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328176",
+   "titre": "Singapore Air: Los Angeles – Jakarta, Indonesia. $660. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/singapore-air-los-angeles-jakarta-indonesia-660-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Jakarta Matrix Airfare Search by ITA Software will price this at $722. Use those dates on Singapore Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:53:12.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328172",
+   "titre": "Korean Air: Dallas – Ho Chi Minh, Vietnam. $833. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/korean-air-dallas-ho-chi-minh-vietnam-833-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Ho Chi Minh City Matrix Airfare Search by ITA Software will price this at $868. Use those dates Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:43:19.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781326",
+   "titre": "Prices down 💥 Cheap flights from many European cities to Mombasa, Kenya 🌴 from €337",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e340/",
+   "texte": "Dreaming of a tropical getaway on Kenya’s spectacular Indian Ocean coast? Now is your chance to discover Mombasa, where palm-fringed beaches, turquoise waters, and fascinating Swahili culture await! Condor flights to Mombasa are available starting at just €337 return.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T17:40:10.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328168",
+   "titre": "Scandinavian Airlines: Chicago – Trondheim, Norway. $485 (Basic Economy) / $565 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/scandinavian-airlines-chicago-trondheim-norway-485-basic-economy-565-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Trondheim Matrix Airfare Search by ITA Software will price this at $499 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:33:47.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328165",
+   "titre": "Air Canada: Fort Lauderdale – Tokyo, Japan. $925. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/air-canada-fort-lauderdale-tokyo-japan-925-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Tokyo This is a regular economy fare with one checked bag included. Matrix Airfare Search by ITA Software Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:23:45.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328161",
+   "titre": "Korean Air: New York – Phnom Penh, Cambodia. $851. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/korean-air-new-york-phnom-penh-cambodia-851-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Phnom Penh Matrix Airfare Search by ITA Software will price this at $881. Use those dates on Expedia Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:13:59.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328157",
+   "titre": "United: Boston – Honolulu, Hawaii (and vice versa). $356 (Basic Economy) / $526 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/united-boston-honolulu-hawaii-and-vice-versa-356-basic-economy-526-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to/from Honolulu The $526 is the Regular Economy fare with advance seat assignment and normal size carry-on United also Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T17:03:30.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781310",
+   "titre": "Experience premium stay in Brussels 🇧🇪 Stylish 4-star Pullman hotel from €109/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/pullman-hotel-brussels/",
+   "texte": "If convenience matters but you still want something polished and upscale, this is a very strong option. The hotel is built directly into Brussels-Midi station, giving you immediate access to international trains while keeping the historic centre only a few minutes away by public transport.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T17:00:34.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328151",
+   "titre": "Scandinavian Airlines: Washington D.C. – Stavanger, Norway. $505 (Basic Economy) / $585 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/19/scandinavian-airlines-washington-d-c-stavanger-norway-505-basic-economy-585-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Stavanger Matrix Airfare Search by ITA Software will price this at $454 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-19T16:53:56.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781305",
+   "titre": "🎄🌴 Christmas in Bali! Full-service flights from Amsterdam from €447 return",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e447/",
+   "texte": "Thinking about swapping European winter for tropical beaches, rice terraces and warm evenings in Bali? Xiamen Airlines is offering full-service return flights from Amsterdam to Denpasar from just €447, including dates over the Christmas period.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T15:30:19.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781260",
+   "titre": "💘🏝️ Valentine’s Day in the Maldives! Mumbai + tropical island escape in one trip from Vienna for just €567 🌴",
+   "lien": "https://www.fly4free.com/flight-deals/europe/romantic-trip-mumbai-maldives-from-vienna/",
+   "texte": "This itinerary combines two completely different sides of the Indian Ocean: start with the colour, food and energy of Mumbai, then switch skyscrapers and street markets for six nights of turquoise lagoons and white-sand beaches in the Maldives — including Valentine’s Day itself.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T14:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781228",
+   "titre": "☀️🐑 SUMMER 2027 in the Faroe Islands! Direct flights from Edinburgh, Paris, London & Copenhagen from €188 return",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-london-edinburgh-copenhagen-to-the-faroe-islands/",
+   "texte": "If you want a summer trip that feels completely different from the usual European getaway, the Faroe Islands are hard to beat. Atlantic Airways is offering direct return flights from London, Edinburgh, Paris and Copenhagen from just €188, making one of Europe’s wildest destinations surprisingly accessible.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T12:30:12.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781252",
+   "titre": "🌴 More resort than city hotel — 5-star Kuala Lumpur stay from €81/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e81/",
+   "texte": "If you like having a little more space, greenery and resort-style comfort, this is a very different option from the usual downtown Kuala Lumpur hotel.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T11:00:57.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781282",
    "titre": "Deal alert! 💥 Cheap flights from many European cities to tropical Mauritius 🏝️ from €345",
