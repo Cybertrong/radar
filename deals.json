@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-20T13:04:32.400Z",
+ "maj": "2026-11-20T21:51:52.881Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -8,8 +8,8 @@
   },
   {
    "nom": "The Flight Deal",
-   "ok": false,
-   "erreur": "HTTP 403"
+   "ok": true,
+   "nb": 16
   },
   {
    "nom": "YDeals",
@@ -28,6 +28,222 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781495",
+   "titre": "Bargain fares! 😎 Cheap full-service flights from Paris to Bali, Indonesia 🌴 for €486",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e486/",
+   "texte": "Dreaming of the ultimate tropical getaway? Xiamen Airlines are offering discounted flights to Denpasar, with roundtrip fares starting from just €486 - a superb value for travel to Indonesia’s premier island escape!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T21:00:31.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781531",
+   "titre": "PRICE DROP 💥 Cheap non-stop flights from Frankfurt to tropical Mauritius 🏝️ 🥥 for €469",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-mauritius-e469-2/",
+   "texte": "Ready for an unforgettable tropical adventure? Secure your ticket to paradise with these Condor non-stop flights to Mauritius starting at just €469 for a round trip! Discover an island where spectacular scenery and endless summer days meet a fascinating cultural blend.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T20:00:15.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328272",
+   "titre": "Korean Air: San Francisco – Cebu, Philippines. $769. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/korean-air-san-francisco-cebu-philippines-769-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Cebu Matrix Airfare Search by ITA Software will price this at $801. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T19:53:39.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328267",
+   "titre": "Korean Air: Los Angeles – Chiang Mai, Thailand. $749. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/korean-air-los-angeles-chiang-mai-thailand-749-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Chiang Mai. Matrix Airfare Search by ITA Software will price this at $780. Use those dates on Expedia Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T19:28:43.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328263",
+   "titre": "Delta: Portland – Kristiansand, Norway. $589 (Basic Economy) / $839 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/delta-portland-kristiansand-norway-589-basic-economy-839-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Kristiansand. Pricing will vary slightly depending on routing. The $839 fare includes advance seat assignment, a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T19:23:25.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328256",
+   "titre": "American / STARLUX: Phoenix – Taipei, Taiwan. $754. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/american-starlux-phoenix-taipei-taiwan-754-roundtrip-including-all-taxes/",
+   "texte": "A good sale for nonstop service to Taipei Matrix Airfare Search by ITA Software will price this at $798. Use those dates Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T19:18:47.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781501",
+   "titre": "Cheap direct flights from London to Cape Town, South Africa 🐧 for £373",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-cape-town-p373/",
+   "texte": "Ready for a trip that combines epic nature, wildlife, and vibrant cities? You can fly direct to Cape Town with Norse Atlantic Airways from just £373 return — an incredible price for one of the most diverse destinations in the world.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T19:00:37.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328252",
+   "titre": "Korean Air: New York – Hanoi, Vietnam. $836. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/asiana-new-york-hanoi-vietnam-836-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Vietnam Matrix Airfare Search by ITA Software will price this at $871. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T18:53:27.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328247",
+   "titre": "Singapore Air: San Francisco – Jakarta, Indonesia. $697. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/singapore-air-san-francisco-jakarta-indonesia-697-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Jakarta Matrix Airfare Search by ITA Software will price this at $761. Use those dates on Singapore Air Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T18:23:05.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328244",
+   "titre": "Qatar Airways: Philadelphia – Phuket, Thailand. $962. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/qatar-airways-philadelphia-phuket-thailand-962-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Phuket. Sample Travel Date: February 16th – 24th, 2027 This is just ONE SAMPLE travel date, for Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T18:13:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781176",
+   "titre": "Barbie Hotel planned for the US, with themed rooms and an amusement park",
+   "lien": "https://www.fly4free.com/news/barbie-hotel-planned-for-the-us-with-themed-rooms-and-an-amusement-park/",
+   "texte": "Arizona is set to become home to the world's first hotel tower dedicated entirely to Barbie. The hotel will be part of Mattel City, a major entertainment destination that will also feature a second themed hotel, new rides and attractions inspired by Mattel's popular toy brands. Together, the two hotels will add more than 800 rooms, turning the future theme park into a destination where visitors can spend several days.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T18:03:38.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328239",
+   "titre": "Delta: Seattle – Copenhagen, Denmark. $576 (Basic Economy) / $816 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/delta-seattle-copenhagen-denmark-576-basic-economy-816-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Copenhagen. Pricing will vary slightly depending on routing. The $816 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T18:03:15.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781484",
+   "titre": "Last-minute full-service LOT direct flights from Warsaw to Phuket, Thailand 🌴 🥥 for €547",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-warsaw-to-phuket-e547/",
+   "texte": "LOT is offering discounted flights to Thailand — making it a great moment to plan a tropical escape to Southeast Asia! Book return tickets starting at only €547.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T18:00:10.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328235",
+   "titre": "Alaska Air / Qantas: Los Angeles – Melbourne, Australia. $732. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/alaska-air-qantas-los-angeles-melbourne-australia-732-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Melbourne This fare include ONE checked bag. You will need to get an Electronic Travel Authorization for entry Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:53:05.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328232",
+   "titre": "Korean Air: Dallas – Beijing, China. $871. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/korean-air-dallas-beijing-china-871-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Beijing Matrix Airfare Search by ITA Software will price this at $908. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:43:04.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328228",
+   "titre": "Korean Air: Chicago – Manila, Philippines. $827. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/korean-air-chicago-manila-philippines-827-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Manila Matrix Airfare Search by ITA Software will price this at $861. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:33:27.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328224",
+   "titre": "Delta: Miami – Mumbai, India. $885 (Basic Economy) / $1,035 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/delta-miami-mumbai-india-885-basic-economy-1035-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Mumbai. Pricing will vary slightly depending on routing. The $1,035 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:23:55.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328221",
+   "titre": "Korean Air / Asiana: New York – Bali, Indonesia. $844. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/korean-air-asiana-new-york-bali-indonesia-844-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Bali Matrix Airfare Search by ITA Software will price this at $888. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:13:12.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328218",
+   "titre": "Air Canada: Boston – Tokyo, Japan. $882. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/air-canada-boston-tokyo-japan-882-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Tokyo. Pricing will vary slightly depending on routing This is a regular economy fare with ONE checked bag Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T17:03:54.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781488",
+   "titre": "Modern and stylish 4🌟 Hotel MOA Berlin for €52/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-berlin-e52/",
+   "texte": "Looking for an affordable city break in Berlin without compromising on comfort? The well-rated 4-star Hotel MOA Berlin is an excellent option, with this deal offering stays from just €52 per night for a double room.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T17:00:34.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328213",
+   "titre": "American: Washington D.C. – Palm Springs, California (and vice versa). $220 (Basic Economy) / $350 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/20/american-washington-d-c-palm-springs-california-and-vice-versa-220-basic-economy-350-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Palm Springs. Pricing can vary slightly depending on routing The $350 fare is the regular fare Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-20T16:53:13.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781454",
+   "titre": "Cheap full-service flights from Milan & Madrid to major Thailand’s cities from €422",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-madrid-to-thailand-e422/",
+   "texte": "Dreaming of an unforgettable trip to Thailand? Fly China Eastern Airlines to Chiang Mai, Phuket, and bangkok starting at only €422 round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T16:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781407",
+   "titre": "B&B stay at well-rated & beachfront 4* hotel in Zanzibar 🏝️ from €54/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e54-4/",
+   "texte": "Plan an exotic escape to Zanzibar booking a double room at the highly rated 4* hotel with a beachfront setting for only €54/night.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T15:00:11.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781437",
+   "titre": "Cheap full-service flights from several European cities to Bali, Indonesia 🌸 from €505",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-feurope-to-bali-e505/",
+   "texte": "Escape to paradise without breaking the bank — discover stunning Bali with round-trip China Southern Airlines flights to Denpasar starting at €505 return. Your tropical adventure awaits!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T14:00:00.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781212",
    "titre": "Good deal 😎 ✌️ Cheap full-service flights from Barcelona to Vietnam & Thailand from €453",
