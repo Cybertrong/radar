@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-20T03:27:52.501Z",
+ "maj": "2026-11-20T13:04:32.400Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -8,8 +8,8 @@
   },
   {
    "nom": "The Flight Deal",
-   "ok": true,
-   "nb": 16
+   "ok": false,
+   "erreur": "HTTP 403"
   },
   {
    "nom": "YDeals",
@@ -28,6 +28,69 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781212",
+   "titre": "Good deal 😎 ✌️ Cheap full-service flights from Barcelona to Vietnam & Thailand from €453",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-vietnam-thailand-e453/",
+   "texte": "Take advantage of an incredible long-haul deal with Shenzhen Airlines and fly to Hanoi or Ho Chi Minh City from just €453 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to explore Southeast Asia without overspending.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T13:00:42.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781400",
+   "titre": "Valentine’s Day in Prague 🥰 Top-rated and central 5🌟 Eurostars Thalia Hotel for €61/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-prague-e61/",
+   "texte": "If you plan to visit Prague jump at the chance to book a double room at the luxurious 5* Eurostars Thalia - located in the city centre - from only €61 per night.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T12:00:01.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781414",
+   "titre": "HIGH SEASON ☀️ Full-service flights from Budapest to Laos & Cambodia from €565",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-laos-cambodia-e565/",
+   "texte": "Discover the wonders of Southeast Asia during the high season with discounted China Southern Airlines to Vientiane and Phnom Penh from just €565 return! Explore the magnificent temples of Angkor Wat, wander through the charming streets of Luang Prabang, cruise along the Mekong River and experience the region's fascinating culture. From ancient heritage and breathtaking landscapes to delicious local cuisine, this is a fantastic opportunity to discover two unforgettable destinations.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T11:00:32.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781378",
+   "titre": "Fare cut! 😉 Cheap full-service flights from Frankfurt to Taiwan 🍜 for €428",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-taiwan-e428/",
+   "texte": "This fantastic deal is your opportunity to explore one of Asia’s most fascinating destinations without spending a fortune on airfare. China Eastern Airlines are selling affordable tickets from Frankfurt to Taipei at rates from as low as €428 for a round trip with checked bags included.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T10:00:32.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781317",
+   "titre": "Holiday in Sharm El Sheikh for €387 p.p. 🏖️ Direct flights from Bucharest + 7-night All-Inclusive stay at 4* resort",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-bucharest-e387/",
+   "texte": "Take advantage of this super cheap package deal and spend 7 nights in Egypt! Book Wizz Air flights from Romania and all-inclusive stay at 4* resort from only €387 per person (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T09:00:59.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781392",
+   "titre": "New last-minute dates! 💥 Full-service direct flights from Poland to Sri Lanka from €509",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e509/",
+   "texte": "Enter Air is offering discounted flights to Colombo from just €509 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T08:00:10.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781367",
+   "titre": "PRICE DROP 💥 Cheap last-minute non-stop flights from Frankfurt to Seattle for €361",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e361/",
+   "texte": "Explore the American West Coast with non-stop flights from Frankfurt starting from just €361 return. This exciting travel deal lets you fly directly to one of the most iconic cities in the United States: Seattle. Comfortable non-stop connections mean less travel stress and more time to enjoy your trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-20T07:00:34.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781384",
    "titre": "Pure heaven 🌴️️️️️️Top-rated 4* hotel on Koh Samui, Thailand for €75/double with breakfast in high season",
