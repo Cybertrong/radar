@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T20:45:11.836Z",
+ "maj": "2026-11-20T03:27:52.501Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -14,7 +14,7 @@
   {
    "nom": "YDeals",
    "ok": false,
-   "erreur": "HTTP 403"
+   "erreur": "HTTP 404"
   },
   {
    "nom": "Fly4free",
@@ -28,6 +28,15 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781384",
+   "titre": "Pure heaven 🌴️️️️️️Top-rated 4* hotel on Koh Samui, Thailand for €75/double with breakfast in high season",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-resort-on-koh-samui-e75/",
+   "texte": "If you want Koh Samui without staying right in the middle of its busiest resort areas, this is a particularly beautiful option. Set on a lush coastal hillside between Chaweng and Lamai, the resort combines tropical gardens, sweeping Gulf of Thailand views and a small private beach tucked into the rocks below.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-19T21:00:35.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781359",
    "titre": "☀️ Winter sun in Lanzarote! Direct flights from Bratislava + 7 nights at a 4-star hotel for €474 p.p.",
