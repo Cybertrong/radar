@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T03:15:55.575Z",
+ "maj": "2026-11-21T12:45:51.835Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,60 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Flytrippers|https://flytrippers.com/?p=171413",
+   "titre": "Mes 3 finalistes pour mon choix de destination (mon voyage actuel)",
+   "lien": "https://flytrippers.com/fr/mes-3-finalistes-pour-mon-choix-de-destination-mon-voyage-actuel/",
+   "texte": "Je viens d’arriver dans mon pays #81 et je n’ai pas encore partagé le début de mon périple comme je le fais habituellement en temps réel sur mes stories Instagram. Je vais le faire dès ce matin, mais je voulais d’abord partager mes 3 destinations finalistes assez différents et mon processus de choix de destination, […]",
+   "source": "Flytrippers",
+   "dollar": "CAD",
+   "date": "2026-11-21T12:28:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781447",
+   "titre": "HIGH SEASON ☀️ B&B stay at beachfront 4* Aochalong Villa Resort & Spa in Phuket for €31/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-phuket-e31-6/",
+   "texte": "Escape the winter and enjoy Thailand over peak season! Book a stay in the 4* hotel with swimming pool and breakfast included from only €15.5/person per night (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T12:00:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781558",
+   "titre": "PEAK SEASON 🌴 🥥 Full-service flights from Budapest to the Philippines for €543",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e543/",
+   "texte": "Explore the breathtaking beauty of the Philippines with disocunted Air China flights to Manila starting at just €543 for a round trip! Whether it’s a beach escape, cultural adventure, or nature exploration you're after, this deal opens the door to one of Southeast Asia’s most diverse and captivating destinations.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T11:00:18.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781536",
+   "titre": "PEAK SEASON 🌴 Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand from €489",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
+   "texte": "Escape to the tropical wonders of Thailand with these discounted Hainan Airlines flights from Belgium from €489 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T10:00:19.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781277",
+   "titre": "HIGH SEASON ☀️ Non-stop British Airways A380 flights from London to Singapore for £575",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
+   "texte": "British Airways are offering discounted fares for non-stop flights from London, UK to Singapore! Tickets are available from for £575 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T09:00:55.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781543",
+   "titre": "Vietnam last minute 😎 ✌️ Cheap full-service flights from Amsterdam to Hanoi or Ho Chi Minh from €488",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
+   "texte": "Ready for your Vietnam adventure? China Eastern Airlines are offering discounted full-service flights to Ho Chi Minh and Hanoi starting at just €488 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T08:00:39.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781495",
    "titre": "Bargain fares! 😎 Cheap full-service flights from Paris to Bali, Indonesia 🌴 for €486",
