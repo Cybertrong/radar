@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T12:45:51.835Z",
+ "maj": "2026-11-21T20:34:41.059Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,222 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781617",
+   "titre": "BEST SEASON 🌴 🥥 Cheap non-stop flights from Manchester & London to Bangkok, Thailand from £416",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p416/",
+   "texte": "Explore the vibrant streets of Bangkok, indulge in delicious street food, and soak up the sun on Phuket’s stunning beaches — all without breaking the bank. Don’t miss out these discounted Norse flights — Thailand is calling!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T20:00:49.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328331",
+   "titre": "Korean Air: San Francisco – Busan, South Korea. $743. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/korean-air-san-francisco-busan-south-korea-743-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Busan Matrix Airfare Search by ITA Software will price this at $774. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T19:53:18.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328327",
+   "titre": "Korean Air: Los Angeles – Nanjing, China. $698. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/korean-air-los-angeles-nanjing-china-698-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Nanjing Matrix Airfare Search by ITA Software will price this at $728. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T19:28:29.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328323",
+   "titre": "Delta: Portland – Billund, Denmark. $593 (Basic Economy) / $833 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/delta-portland-billund-denmark-593-basic-economy-833-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Billund. Pricing will vary slightly depending on routing. The $833 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T19:23:24.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328319",
+   "titre": "Delta: Phoenix – Catania, Sicily, Italy. $750 (Basic Economy) / $970 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/delta-phoenix-catania-sicily-italy-750-basic-economy-970-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Catania. Pricing will vary slightly depending on routing The $970 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T19:18:46.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781603",
+   "titre": "Fantastic fares to Malaysia! 😎 🌴 Cheap last-minute full-service direct flights from Warsaw to Penang for €476",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e476/",
+   "texte": "Fancy swapping European autumn for street-food nights, tropical heat and one of Southeast Asia’s most atmospheric islands? LOT is offering direct return flights from Warsaw to Penang from just €476 — a rare chance to reach this Malaysian island without an extra connection.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T19:00:50.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328315",
+   "titre": "American: Newark – Palm Springs, California (and vice versa). $200 (Basic Economy) / $330 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/american-newark-palm-springs-california-and-vice-versa-200-basic-economy-330-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Palm Springs. Pricing can vary slightly depending on routing The $330 fare is the regular fare Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T18:53:58.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328311",
+   "titre": "Cathay Pacific: San Francisco – Angeles, Philippines. $798. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/cathay-pacific-san-francisco-angeles-philippines-798-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Angeles Matrix Airfare Search by ITA Software will price this at $832. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T18:23:26.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328306",
+   "titre": "The Shorthaul – Delta: Philadelphia – Detroit (and vice versa). $119 (Basic Economy) / $209 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/the-shorthaul-delta-philadelphia-detroit-and-vice-versa-119-basic-economy-209-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Detroit The $209 fare is the regular fare which allows for normal size carry-on and personal Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T18:13:52.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328302",
+   "titre": "Delta: Seattle – Billund, Denmark. $595 (Basic Economy) / $835 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/delta-seattle-billund-denmark-595-basic-economy-835-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Billund. Pricing will vary slightly depending on routing. The $835 fare includes advance seat assignment, normal size carry-on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T18:03:56.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781599",
+   "titre": "Holiday in Baja California, Mexico from €770 p.p. ☀️ 🌊 Cheap flights from Prague & Vienna + 7-night B&B stay at well-rated hotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague-vienna-e770/",
+   "texte": "Winter escape to Baja California! Book discounted Condor flights to San Jose del Cabo and stay 7 nights at the well-rated hotel starting at €770 per person (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T18:00:49.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328299",
+   "titre": "Cathay Pacific: Los Angeles – Penang, Malaysia. $799. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/cathay-pacific-los-angeles-penang-malaysia-799-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Penang Matrix Airfare Search by ITA Software will price this at $832. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:53:17.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328295",
+   "titre": "Korean Air: Dallas – Hanoi, Vietnam. $838. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/korean-air-dallas-hanoi-vietnam-838-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Hanoi Matrix Airfare Search by ITA Software will price this at $874. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:43:35.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781478",
+   "titre": "A Czech Ryanair? Smartwings plans more scheduled flights under Pegasus ownership",
+   "lien": "https://www.fly4free.com/flight-deals/europe/a-czech-ryanair-smartwings-plans-more-scheduled-flights-under-pegasus-ownership/",
+   "texte": "Czech airline Smartwings is preparing for changes following its acquisition by Turkish low-cost carrier Pegasus Airlines. The new owner plans to expand the airline's scheduled flight network, improve air connectivity with Prague and offer passengers a wider choice of destinations. Smartwings will retain its own brand and headquarters in the Czech capital.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T17:41:30.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328291",
+   "titre": "Korean Air: Chicago – Cebu, Philippines. $860. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/korean-air-chicago-cebu-philippines-860-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Cebu Matrix Airfare Search by ITA Software will price this at $896. Use those dates on Expedia should Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:33:35.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328287",
+   "titre": "Scandinavian Airlines: Miami – Gdansk, Poland. $669 (Basic Economy) / $749 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/scandinavian-airlines-miami-gdansk-poland-669-basic-economy-749-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Gdansk Matrix Airfare Search by ITA Software will price this at $683 (Basic Economy). Use those dates on Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:23:19.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328284",
+   "titre": "Korean Air: New York – Kuala Lumpur, Malaysia. $832. Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/korean-air-new-york-kuala-lumpur-malaysia-832-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Kuala Lumpur Matrix by Airfare Search will price this at $867. Use those dates on Expedia should reprice Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:13:45.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328280",
+   "titre": "Delta: Boston – Mumbai, India. $798 (Basic Economy) / $948 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/delta-boston-mumbai-india-798-basic-economy-948-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Mumbai. Pricing will vary slightly depending on routing. The $948 fare includes advance seat assignments, a normal size Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T17:03:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781596",
+   "titre": "B&B stay at highly rated 4* Park Hotel Chianti in Tuscany 🍷 ffrom €58/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-the-tuscany-e58-5/",
+   "texte": "Are you planning to spend a few days in Tuscany? We've got the perfect deal for you! Book a double room at the 4* hotel for only €58 per night.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T17:00:43.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328276",
+   "titre": "American: Washington D.C. – Santa Ana (Orange County), California (and vice versa). $200 (Basic Economy) / $330 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/21/american-washington-d-c-santa-ana-orange-county-california-and-vice-versa-200-basic-economy-330-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to / from Santa Ana. Pricing can vary slightly depending on routing The $330 fare is the regular fare Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-21T16:53:53.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781593",
+   "titre": "Adventure time in Africa 🦓 Full-service flights from Vienna to Kenya for €459",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-kenya-e459-3/",
+   "texte": "Ready for your next great adventure? Fly to Nairobi with Saudia starting at just €459 return! Discover the heart of East Africa — from breathtaking safaris in the Maasai Mara to white-sand beaches along the Indian Ocean.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T16:00:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781588",
+   "titre": "Well-rated 4🌟 Eurostars Palazzo Zichy in Budapest for €57/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-budapest-e57-2-2/",
+   "texte": "Visit the beautiful capital of Hungary! Take advantage of this hotel bargain and book a stay at the well-rated 4* hotel for only €57 per night (based on 2 people sharing).",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T15:02:57.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781572",
+   "titre": "PEAK SEASON 🌊 🐠 Etihad flights from many European cities to the Maldives from €543",
+   "lien": "https://www.fly4free.com/flight-deals/europe/etihad-flights-from-europe-to-the-maldives-e548/",
+   "texte": "Experience pure paradise with Etihad Airways flights to Male starting at just €543 return! Switch city life for sugar-soft sands, crystal-clear seas, and tropical serenity-where you can unwind, adventure, and indulge in a truly unforgettable escape.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T14:00:54.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781552",
+   "titre": "Cheap last-minute full-service flights from Amsterdam to South Korea 🍁 for €493",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-seoul-e493/",
+   "texte": "Whether you seek neon-lit energy in Seoul, peaceful temple retreats, or bustling night markets, South Korea delivers a blend of old and new that delights every traveler! Take advantage of these discounted Xiamen Airlines flights to Seoul available from just €493 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-21T13:00:32.000Z"
+  },
   {
    "id": "Flytrippers|https://flytrippers.com/?p=171413",
    "titre": "Mes 3 finalistes pour mon choix de destination (mon voyage actuel)",
