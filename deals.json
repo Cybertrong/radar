@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T02:18:20.787Z",
+ "maj": "2026-11-22T12:40:11.456Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,51 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781683",
+   "titre": "Romantic Venice escape! 💕 🥂 B&B stay at well-rated 4* palazzo hotel for €75/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e75/",
+   "texte": "This 4* hotel is a beautiful choice for a romantic Venice trip: atmospheric enough to feel like part of the destination itself, exceptionally central, yet tucked away from the busiest pedestrian routes. If you want chandeliers, canals, historic interiors and that slightly theatrical old-Venice feeling rather than a generic modern hotel, this one has plenty of character.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T12:00:24.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781758",
+   "titre": "Cheap full-service flights from Paris to Seoul, South Korea for €496",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
+   "texte": "China Eastern Airilines are offering promotional fares from the capital of France to South Korea starting at only €496 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T10:55:39.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781662",
+   "titre": "HIGH SEASON 😎 Cheap full-service flights from Budapest to Vietnam from €486",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e486/",
+   "texte": "Whether you dream of exploring the bustling streets of Hanoi, drifting along Halong Bay’s limestone cliffs, or relaxing on the golden shores of Da Nang, now is the time to book these discounted Air China, China Southern and China Eastern Airlines flights to Hanoi or Ho Chi Minh starting at €486 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T09:50:09.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781708",
+   "titre": "Last-minute fares just got cheaper! 🤩 Cheap full-service direct flights from Poland to Sri Lanka 🌴 from €457",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e457/",
+   "texte": "Enter Air is offering discounted flights to Colombo from just €457 return , making Sri Lanka an easy last-minute option for anyone craving beaches, jungle, tea country and a completely different climate.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T08:45:52.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781674",
+   "titre": "PRICE DROP 💥 Cheap flights from Prague to Toronto, Canada 🍁 for €357",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e357/",
+   "texte": "Explore the charm of Canada’s coolest city — stroll through vibrant neighborhoods, marvel at Niagara Falls, and soak in the autumn vibes! Book discounted Condor flights from Czechia starting at only €357 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T08:00:12.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781625",
    "titre": "Excellent deal! 😉 Cheap open-jaw full-service flights from Brussels to Hong Kong, returning from Vietnam or Thailand from €362",
