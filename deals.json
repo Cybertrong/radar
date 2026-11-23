@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T02:53:16.436Z",
+ "maj": "2026-11-23T14:50:05.747Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,78 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781899",
+   "titre": "BRAZILIAN SUMMER 😎 🍹 Non-stop flights from Madrid to Sao Paulo for €587",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-sao-paulo-e587/",
+   "texte": "Experience comfort, reliability, and direct service to one of Brazil’s most exciting destinations! LATAM is offering discounted flights to Sao Paulo starting at only €587 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T13:55:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781915",
+   "titre": "Excellent hotel bargain 😉 B&B stay at well-rated 4✨ hotel on Lake Maggiore, Italy for €49/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-lake-maggiore-e49/",
+   "texte": "An amazing Lake Maggiore getaway for less! Enjoy a B&B stay at a well-rated 4-star hotel in one of Italy's most beautiful lake destinations for just €49 per night for two people. Wake up to the charm of northern Italy, explore picturesque lakeside towns, admire stunning Alpine scenery and enjoy a relaxing break without stretching your budget. This fantastic hotel deal is perfect for an affordable Italian escape!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T12:50:02.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781946",
+   "titre": "Fantastic Sale 😎 ✌️ Cheap flights from Italy & Spain to major US cities from €293",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-spain-to-usa-e303/",
+   "texte": "Aer Lingus is offering discounted airfares to Chicago, Los Angeles, Boston, Washington D.C. and New York starting at €293 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T11:45:55.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781925",
+   "titre": "Winter in paradise 😎 🏝️ Full-service flights from several European cities to the Maldives from €562",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-maldives-e562/",
+   "texte": "Experience pure paradise with these full-service Gulf Air flights to Male starting at just €562 for a round trip! Switch city life for sugar-soft sands, crystal-clear seas, and tropical serenity-where you can unwind, adventure, and indulge in a truly unforgettable escape.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T11:00:13.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781772",
+   "titre": "Bargain fares 😎 Cheap full-service flights from Manchester to Hong Kong & Guangzhou, China from £393",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-guangzhou-p393/",
+   "texte": "Take advantage of these discounted Juneyao Airlines fares to discover Hong Kong's spectacular harbour, famous food markets and dazzling cityscape, or head to Guangzhou for authentic Cantonese cuisine, fascinating temples and a taste of southern China. Great prices for a long-haul adventure, with full-service airlines included!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T10:00:15.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781860",
+   "titre": "PEAK SEASON 🌴 🥥 2-in-1 flights from Prague, Vienna or Berlin to Abu Dhabi & Sri Lanka from €463",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-or-berlin-to-abu-dhabi-and-sri-lanka-e463/",
+   "texte": "This itinerary combines a warm Middle Eastern stopover with a tropical escape to Sri Lanka — and the best part is that all flights are direct, operated by Pegasus and Etihad Airways.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T09:00:18.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781872",
+   "titre": "BEST SEASON ☀️ Cheap full-service flights from London to exotic Malaysian Borneo 🦧 for £486",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-malaysian-borneo-p486/",
+   "texte": "Head off on a trip to exotic Borneo! China Southern Airlines are offering discounted flights to Kota Kinabalu, Malaysia starting at only £486 for a round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T08:00:44.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781853",
+   "titre": "FARE DROP 💥 Cheap non-stop flights from Stockholm to Bangkok, Thailand for €375",
+   "lien": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-stockholm-to-bangkok/",
+   "texte": "Dreaming of turquoise waters, white sand beaches, and tropical adventures? Now’s the perfect time to plan your escape! Discover the beauty of Thailand with discounted Norse flights starting at just €375 round-trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-23T07:00:48.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781658",
    "titre": "SUMMER ☀️ Non-stop flights from Berlin to New York 🗽 for €441",
