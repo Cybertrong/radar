@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T20:45:35.589Z",
+ "maj": "2026-11-23T02:53:16.436Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,15 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781658",
+   "titre": "SUMMER ☀️ Non-stop flights from Berlin to New York 🗽 for €441",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-to-new-york-e441/",
+   "texte": "Skip the layovers and fly straight to the city that never sleeps with United — skyline views, Broadway nights, and Central Park strolls await. Book now these discounted United flights to Newark Airport (EWR) before this deal takes off!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-22T21:00:08.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781727",
    "titre": "High Season 3-in-1 trip across Thailand 🌴 🥥 Flights from Vienna, Budapest & Prague to Bangkok, Chiang Mai and Phuket from €627",
