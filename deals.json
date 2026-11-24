@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T02:56:23.645Z",
+ "maj": "2026-11-24T14:57:15.387Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,78 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782102",
+   "titre": "London hotel deal 🇬🇧 Stylish 4-star hotel with a secret garden near the British Museum from €138/double",
+   "lien": "https://www.fly4free.com/flight-deals/europe/central-4-star-hotel-london/",
+   "texte": "If you want to stay right in central London without feeling like you’re surrounded by traffic and crowds the moment you step outside, this is a particularly nice option. The hotel sits in Bloomsbury, surrounded by historic streets and garden squares, yet places you within easy reach of Covent Garden, Soho, the West End and many of London’s major museums.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T14:00:27.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=781835",
+   "titre": "European alternatives to Vice City: 7 destinations with a GTA 6 atmosphere",
+   "lien": "https://www.fly4free.com/news/european-alternatives-to-vice-city-7-destinations-with-a-gta-6-atmosphere/",
+   "texte": "Skyscrapers overlooking sandy beaches, palm-lined promenades, luxury yachts, expensive cars and nightclubs. The atmosphere of Vice City — the fictional city in GTA 6 inspired by Miami, Florida — is not limited to the United States. Europe also has resorts that resemble the famous video game setting through their architecture, beaches and nightlife. We have selected seven destinations, from Spain's Benidorm to glamorous Monaco.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T13:37:49.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782040",
+   "titre": "🌴✈️ Bali with an Istanbul stopover from Bucharest ✈️ for €656 with Singapore Airlines",
+   "lien": "https://www.fly4free.com/flight-deals/europe/3-in-1-trip-bucharest-istanbul-bali-e656/",
+   "texte": "This itinerary combines a short city break in Istanbul with a proper tropical escape in Bali, while keeping the long-haul part of the journey with Singapore Airlines.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T12:30:51.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782027",
+   "titre": "🛳️ CHEAP 5-day Mediterranean cruise on MSC ship from €229 p.p. in an outside cabin",
+   "lien": "https://www.fly4free.com/flight-deals/europe/mediterranian-cruise-from-rome-e229/",
+   "texte": "This is a great option if you want to try a cruise without committing to a full week at sea. The 4-night one-way itinerary aboard MSC Sinfonia takes you from northern Italy to Spain, with long port days for exploring Tuscany and Rome, followed by a relaxing sea day before arriving in Valencia.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T11:00:00.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782095",
+   "titre": "Thailand in High Season 😎 ☀️ Holiday in Phuket for €673 p.p: Full-service flights from Vienna + 10-night stay at top-rated 4* hotel",
+   "lien": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673-2/",
+   "texte": "Looking for an easy winter escape to Thailand without paying peak-season package prices? This deal combines full-service Air China flights to Phuket with a stay at the highly rated 4-star hotel for €673 per person, based on two people sharing.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T10:00:20.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782079",
+   "titre": "CARIBBEAN HIGH SEASON 🌊 🌴 Cheap flights from many European cities to Barbados from €437",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-barbados-e437/",
+   "texte": "Trade winter coats for white-sand beaches, turquoise Caribbean water and warm island evenings. Condor is offering discounted flights to Bridgetown from just €437 return, including high-season dates.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T09:00:22.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782068",
+   "titre": "Prices down 💥 Cheap full-service flights from Budapest & Paris to Bali, Indonesia 🌸 from €553",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-paris-to-bali-e553/",
+   "texte": "This is a rare low fare to one of Asia’s most iconic destinations, perfect for those who want affordable luxury and an unforgettable experience. Book now discounted China Southern Airlines flights to Denpasar and start planning your tropical getaway!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T08:00:26.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782048",
+   "titre": "GREAT DEAL 🤩 Cheap flights from several German cities to New York & Los Angeles from €373",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-los-angeles-e373/",
+   "texte": "Whether you're craving the iconic skyline of NYC, the beaches of California or a classic American road trip, this is a fantastic opportunity to explore the United States without breaking the bank. Grab these bargain fares and start planning your next transatlantic adventure! Book discounted Aer Lingus flights starting at €373 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-24T07:00:26.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=781999",
    "titre": "Exotic combination of flights 😎 🌴 Cape Verde + Recife, Brazil in one tropical trip from Amsterdam for €526",
