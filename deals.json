@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T00:50:48.735Z",
+ "maj": "2026-11-25T11:25:55.982Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,51 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782253",
+   "titre": "TAP Sale 😎 ✌️ Cheap flights from many European cities to major US cities from €355",
+   "lien": "https://www.fly4free.com/flight-deals/europe/tap-flights-from-europe-to-usa-e355/",
+   "texte": "Whether you're planning a city break, a longer American adventure or a visit across the pond, now is a great time to grab a bargain! Don't miss these limited-time TAP flight deal with prices starting at just €355 round trip.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-25T11:00:25.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782206",
+   "titre": "🚢🔥 BLACK WEEK CRUISE SALE! Cruises from €159 p.p. with discounts of up to 50%",
+   "lien": "https://www.fly4free.com/flight-deals/europe/black-friday-on-cruises/",
+   "texte": "e-hoi’s Black Week 2026 is now live, bringing together special offers from 19 cruise lines — from affordable mainstream brands such as MSC, Costa and AIDA to premium and luxury names including Celebrity, Holland America, Oceania, Explora Journeys and Silversea.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-25T10:00:58.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782195",
+   "titre": "Full-service SWISS flights from Manchester to Bali, Indonesia 🌸 for £583",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-bali-p583/",
+   "texte": "Escape to paradise without breaking the bank — discover stunning Bali with discounted Swiss & Singapore Airlines flights to Denpasar starting at £583 return. Your tropical adventure awaits!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-25T09:00:55.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782180",
+   "titre": "HIGH SEASON 🌴 🥥 3-in-1 trip from Prague to Istanbul, Kuala Lumpur, and a Malaysian laid-back island for €493",
+   "lien": "https://www.fly4free.com/flight-deals/europe/3-in-1-trip-from-prague-to-istanbul-and-malaysia-e493/",
+   "texte": "This itinerary has a really nice rhythm: first Istanbul, where Europe and Asia meet; then Kuala Lumpur, one of Southeast Asia’s easiest and most exciting capitals; and finally Pangkor Island, a quiet tropical escape where everything slows down. The combination of all flights, buses, and ferries will be only €493.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-25T08:00:20.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782172",
+   "titre": "Etihad Airways flights from Bucharest to Bali, Indonesia 🌸 for €585",
+   "lien": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-bucharest-to-bali-indonesia-e585/",
+   "texte": "Discover one of the world's most famous islands! Book discounted Etihad Airways to Denpasar starting at only €585 for a round trip, an excellent fare from Romania.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-25T07:00:05.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=782194",
    "titre": "Great choice for your Philippines trip! 🇵🇭 Cheap 4* Ramada by Wyndham hotel in Manila for just €50/double",
