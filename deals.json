@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T23:03:31.986Z",
+ "maj": "2026-11-27T08:45:04.547Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,33 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782663",
+   "titre": "Cheap full-service flights from Frankfurt & London to Bali, Indonesia 🌸 for €505",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-london-to-bali-e505/",
+   "texte": "Escape to paradise without breaking the bank — discover stunning Bali with discounted China Southern Airlines flights to Denpasar starting at only €505 return. Your tropical adventure awaits!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-27T08:00:50.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782648",
+   "titre": "HOT 🔥 Full-service flights from Lisbon to exotic Sao Tome and Principe 🌴 from €270",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome-2/",
+   "texte": "Visit one of the most unique destinations in Africa - all with comfort included. Jet off to Sao Tome and Principe with TAAG Angola Airlines flights starting at just €270! Adventure’s calling. Will you answer?",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-27T07:29:59.000Z"
+  },
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782623",
+   "titre": "Cheap last-minute full-service direct flights from Poland to Vietnam for €485",
+   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e485/",
+   "texte": "Take advantage of an incredible long-haul deal with LOT and fly to Ho Chi Minh City from just €485 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to explore Southeast Asia without overspending.",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-27T07:00:30.000Z"
+  },
   {
    "id": "Fly4free|https://www.fly4free.com/?p=782611",
    "titre": "Non-stop flights from Manchester to Phuket, Thailand 🌴 🥥 for £518",
@@ -4500,33 +4527,6 @@
    "source": "Flytrippers",
    "dollar": "CAD",
    "date": "2026-11-04T12:54:34.000Z"
-  },
-  {
-   "id": "Flytrippers|https://flytrippers.com/lcn-a-interviewe-flytrippers-astuces-pour-economiser-sur-un-voyage-estival-en-europe/",
-   "titre": "CBC a interviewé Flytrippers: Nouveaux frais de 30$ d’Air Canada pour les réservations par téléphone",
-   "lien": "https://flytrippers.com/fr/notre-entrevue-cbc-frais-telephone-air-canada/",
-   "texte": "J’ai été interviewé par CBC en tant qu’expert sur le sujet très clivant des frais des transporteurs aériens. Bien des voyageurs ne les aiment pas (un réflexe normal), mais n’apprécient pas que c’est précisément cette segmentation de marché qui fait en sorte que prendre l’avion n’a littéralement jamais été aussi peu cher de toute l’Histoire […]",
-   "source": "Flytrippers",
-   "dollar": "CAD",
-   "date": "2026-11-02T09:48:44.000Z"
-  },
-  {
-   "id": "Flytrippers|https://flytrippers.com/how-to-book-hotels-for-less-introduction/",
-   "titre": "Comment réserver des hôtels pour moins cher: introduction",
-   "lien": "https://flytrippers.com/fr/comment-reserve-hotels-pour-moins-chers/",
-   "texte": "Voyager pour moins, c’est siiiiiii simple. Tu dois juste investir un peu de temps. Dans le cas d’une réservation d’hôtel, comme pour la plupart des choses liées aux voyages, c’est vraiment simple: compare, compare, compare… et compare encore. C’est vraiment juste ça. Prends le temps de comparer. Mais c’est certainement utile de connaître des astuces […]",
-   "source": "Flytrippers",
-   "dollar": "CAD",
-   "date": "2026-11-01T15:00:28.000Z"
-  },
-  {
-   "id": "Flytrippers|https://flytrippers.com/?p=170302",
-   "titre": "GÉNIAL: La chaîne d’hôtels Hilton lance une nouvelle carte de crédit avec une énorme prime de bienvenue",
-   "lien": "https://flytrippers.com/fr/lancement-carte-credit-hilton-amex/",
-   "texte": "On est très excités de t’annoncer une excellente nouvelle aujourd’hui, l’une des meilleures de l’année pour les voyageurs canadiens: le lancement de la toute nouvelle Carte Hilton Honors American Express! Et la prime de bienvenue spéciale inaugurale peut valoir 4000$+ en hôtels de luxe gratuits!!! C’est assez fou! Flytrippers a été invité à une soirée […]",
-   "source": "Flytrippers",
-   "dollar": "CAD",
-   "date": "2026-10-29T15:18:39.000Z"
   }
  ]
 }
