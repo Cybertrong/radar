@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T19:30:21.646Z",
+ "maj": "2026-11-28T02:45:37.699Z",
  "sources": [
   {
    "nom": "Secret Flying",
@@ -28,6 +28,24 @@
   }
  ],
  "aubaines": [
+  {
+   "id": "Fly4free|https://www.fly4free.com/?p=782760",
+   "titre": "Non-stop flights from Athens to Cairo or Luxor, Egypt 🏺📜 from €112",
+   "lien": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-greece-to-egypt-10-2/",
+   "texte": "Escape to the land of pharaohs and pyramids with these non-stop flights from Greece to Cairo or Luxor, starting at just €112 for a round trip!",
+   "source": "Fly4free",
+   "dollar": "USD",
+   "date": "2026-11-27T20:55:08.000Z"
+  },
+  {
+   "id": "The Flight Deal|https://www.theflightdeal.com/?p=328675",
+   "titre": "United: San Francisco – Geneva, Switzerland. $546 (Basic Economy) / $786 (Regular Economy). Roundtrip, including all Taxes",
+   "lien": "https://www.theflightdeal.com/2026/11/27/united-san-francisco-geneva-switzerland-546-basic-economy-786-regular-economy-roundtrip-including-all-taxes/",
+   "texte": "A good sale to Geneva United and its partners Air Canada, Austrian, Lufthansa and Swiss Air’s $786 fare is a regular economy Read More",
+   "source": "The Flight Deal",
+   "dollar": "USD",
+   "date": "2026-11-27T19:33:49.000Z"
+  },
   {
    "id": "The Flight Deal|https://www.theflightdeal.com/?p=328672",
    "titre": "Iberia: Los Angeles – Madrid, Spain. $562 (Basic Economy) / $802 (Regular Economy). Roundtrip, including all Taxes",
@@ -4509,24 +4527,6 @@
    "source": "Fly4free",
    "dollar": "USD",
    "date": "2026-11-11T11:00:47.000Z"
-  },
-  {
-   "id": "Fly4free|https://www.fly4free.com/?p=780058",
-   "titre": "Prices down! 💥 Cheap high season flights from Vienna to Sri Lanka for €407",
-   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e407/",
-   "texte": "Whether you're after relaxing days by the Indian Ocean or unforgettable adventures inland, Sri Lanka promises an incredible holiday experience. Salamair is offering affordable flights to Colombo for just €407 for a round trip!",
-   "source": "Fly4free",
-   "dollar": "USD",
-   "date": "2026-11-11T10:00:29.000Z"
-  },
-  {
-   "id": "Fly4free|https://www.fly4free.com/?p=780053",
-   "titre": "Last-minute full-service direct flights from Poland to Vietnam for €539",
-   "lien": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
-   "texte": "Take advantage of an incredible long-haul deal with LOT and fly to Ho Chi Minh City from just €539 return. This full-service fare is a rare find, combining comfort, value, and convenience for travelers looking to explore Southeast Asia without overspending.",
-   "source": "Fly4free",
-   "dollar": "USD",
-   "date": "2026-11-11T09:00:10.000Z"
   }
  ]
 }
